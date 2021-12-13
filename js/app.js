@@ -2,7 +2,7 @@ const toggle = document.getElementById('toggleIcon')
 const hamburger = document.getElementById('hamburger')
 const nav = document.getElementById('menu')
 const header = document.getElementsByTagName('header')
-
+const nav_buttons = document.getElementsByClassName('btn_to')
 
 function menuToggle() {
 	nav.classList.toggle('active')
@@ -17,8 +17,20 @@ function menuToggle() {
 	}
 }
 
+for (var i = 0; i < nav_buttons.length; i++) { // nav cuando se de click en botones en formato mobile
+
+  nav_buttons[i].addEventListener('click', function(e) {
+
+    if (document.body.getBoundingClientRect().width < 1024) { // chequea el ancho de la pantalla
+      menuToggle()
+    } 
+
+  })
+
+}
+
 toggle.addEventListener('click', function(){
-	menuToggle()
+  menuToggle()
 });
 
 var scrollPos = 0;
@@ -53,5 +65,16 @@ AOS.init({
   // mirror: false, // whether elements should animate out while scrolling past them
   // anchorPlacement: 'top-bottom', // defines which position of the element regarding to window should trigger the animation
 
+});
+
+// jquery.easing
+$(function() {
+  $('.btn_to').bind('click', function(event) {
+    var $anchor = $(this);
+    $('html, body').stop().animate({
+        scrollTop: $($anchor.attr('href')).offset().top - 100
+    }, 1000, 'easeInOutExpo');
+    event.preventDefault();
+  });
 });
 

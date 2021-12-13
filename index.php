@@ -39,9 +39,9 @@
 
             <nav class="transition" id="menu">
               <ul>
-                <li><a class="transition" href="#">NOSOTROS</a></li>
-                <li><a class="transition" href="#">PROYECTOS</a></li>
-                <li><a class="transition" href="#">CONTACTO</a></li>
+                <li><a class="transition btn_to" href="#nosotros">NOSOTROS</a></li>
+                <li><a class="transition btn_to" href="#proyectos">PROYECTOS</a></li>
+                <li><a class="transition btn_to" href="#contacto">CONTACTO</a></li>
               </ul>
             </nav>
 
@@ -100,7 +100,7 @@
     <!-- Slides end -->
 
     <!-- Nosotros -->
-    <section class="container nosotros">
+    <section id="nosotros" class="container nosotros">
       
       <div data-aos="fade-up" class="row">
         <div class="col-md-12">
@@ -206,7 +206,7 @@
     <!-- Iconos end -->
 
     <!-- Proyectos -->
-    <section class="container-fluid proyectos">
+    <section id="proyectos" class="container-fluid proyectos">
 
       <div data-aos="fade-up" class="row">
         <div class="col-md-12">
@@ -253,7 +253,7 @@
     <!-- Proyectos end -->
 
     <!-- Contacto -->
-    <section class="container contacto">
+    <section id="contacto" class="container contacto">
 
       <div class="row">
         <div class="col-md-12">
