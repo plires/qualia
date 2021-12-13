@@ -1,0 +1,19 @@
+{
+  "name": "qualia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Libre",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0",
+    "jquery.easing": "^1.4.1",
+    "slick-carousel": "^1.8.1"
+  }
+}
