@@ -5,8 +5,6 @@ const nav = document.getElementById('menu')
 const header = document.getElementsByTagName('header')
 const nav_buttons = document.getElementsByClassName('btn_to')
 
-console.log(whatsappNumber)
-
 function menuToggle() {
 	nav.classList.toggle('active')
 	toggle.classList.toggle('active')

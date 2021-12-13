@@ -10,8 +10,7 @@ function submitFormContacto(form) {
 
   if (formValidated) {
     sending.classList.add('active')
-    // REMPLAZAR ESTE NUMERO POR EL DE CONFIG
-    verifyRecaptcha(form, '6LfnZJMdAAAAAAuBwszjLqdyOHG3W90tntO1hfde', 'validarFormularioContacto' )
+    verifyRecaptcha(form, recaptchaKeySite, 'validarFormularioContacto' )
   }
 
 }
