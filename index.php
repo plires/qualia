@@ -51,6 +51,9 @@
     </header>
     <!-- Header end -->
 
+    <!-- Whatsapp -->
+    <?php include('includes/whatsapp.php'); ?>
+
     <!-- Slides -->
     <section class="container-fluid slides_home p-0">
 

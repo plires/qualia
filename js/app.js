@@ -1,8 +1,11 @@
 const toggle = document.getElementById('toggleIcon')
 const hamburger = document.getElementById('hamburger')
+const whatsapp = document.getElementById('whatsapp')
 const nav = document.getElementById('menu')
 const header = document.getElementsByTagName('header')
 const nav_buttons = document.getElementsByClassName('btn_to')
+
+console.log(whatsappNumber)
 
 function menuToggle() {
 	nav.classList.toggle('active')
@@ -77,4 +80,15 @@ $(function() {
     event.preventDefault();
   });
 });
+
+function setLinkWhatsapp() {
+  if (window.innerWidth < 768) {
+    whatsapp.setAttribute('href', `https://api.whatsapp.com/send?phone=${whatsappNumber}&text=Hola!%20Necesito%20hacer%20una%20consulta!`);
+  }
+  else {
+    whatsapp.setAttribute('href', `https://web.whatsapp.com/send?phone=${whatsappNumber}&text=Hola!%20Necesito%20hacer%20una%20consulta!`);
+  }
+}
+
+setLinkWhatsapp();
 

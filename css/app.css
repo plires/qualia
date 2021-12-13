@@ -87,6 +87,27 @@ input:focus-visible {
 .form-control.invalid {
 	border-color: red!important;
 }
+
+.whatsapp {
+	position: fixed;
+	bottom: 1%;
+	right: 1%;
+	padding: 15px;
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+	background-color: black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	z-index: 999;
+	box-shadow: grey 0px 0px 5px;
+	cursor: pointer;
+}
+
+.whatsapp:hover {
+	background-color: #1ce070;
+}
 /* Comunes end */
 
 /* Header */
@@ -554,6 +575,17 @@ footer .s2d img {
 }
 
 @media (min-width: 768px) {
+
+	/* Comunes end */
+	.whatsapp {
+		top: calc( 50% - 40px );
+		right: 0;
+		border-radius: 0;
+		border-top-left-radius: 50%;
+		border-bottom-left-radius: 50%;
+	}
+	/* Comunes end */
+
 	/* Slide Home */
 	.slides_home .carousel-item {
 		height: 395px;
