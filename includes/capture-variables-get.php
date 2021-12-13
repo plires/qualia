@@ -30,14 +30,8 @@
     $errors = [];
   }
 
-  if (isset($_GET['msg'])) {
-    $msg = $_GET['msg'];
-  }
-
-  if (isset($_GET['newsletter'])) {
-    $newsletterSelected = $_GET['newsletter'];
-  } else {
-    $newsletterSelected = '';
+  if (isset($_GET['msg_exito'])) {
+    $msg_exito = $_GET['msg_exito'];
   }
 
 ?>

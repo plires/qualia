@@ -1,6 +1,6 @@
 <?php
 
-	include('functions.php');
+	include('../includes/functions.php');
   include('../includes/config.inc.php');
   include('../clases/app.php');
   
@@ -26,28 +26,28 @@
 	if($datos['success'] == 1 && $datos['score'] >= 0.5){
 
 		if (emptyInput($_POST['name'])) {
-	    $errors['name'] = 'Ingresá un nombre.';
+	    $errors['name'] = 'Por favor ingresá un nombre.';
 	    $name = $_POST['name'];
 	  } else {
 	    $name = $_POST['name'];
 	  }
 
 		if (!emailCheck($_POST['email'])) {
-	    $errors['email'] = 'Ingresa un email válido.';
+	    $errors['email'] = 'Por favor ingresa un email válido.';
 	    $email = $_POST['email'];
 	  } else {
 	    $email = $_POST['email'];
 	  }
 
 	  if (emptyInput($_POST['phone'])) {
-	    $errors['phone'] = 'Ingresá un teléfono.';
+	    $errors['phone'] = 'Por favor ingresá un teléfono.';
 	    $phone = $_POST['phone'];
 	  } else {
 	    $phone = $_POST['phone'];
 	  }
 
 	  if (emptyInput($_POST['comments'])) {
-	    $errors['comments'] = 'Falta el mensaje.';
+	    $errors['comments'] = 'Por favor ingresá tu consulta.';
 	    $comments = $_POST['comments'];
 	  } else {
 	    $comments = $_POST['comments'];
@@ -61,9 +61,6 @@
 
 		  $app = new App;
 
-		  // Registramos en Perfit el contacto
-		  $app->registerEmailContactsInPerfit(API_KEY_PERFIT, LIST_PERFIT_SEGUROS, $_POST);
-
 	  	//Enviamos los mails al cliente y usuario
 		  $sendEmails = $app->prepareEmailFormContacto($_POST);
 
@@ -71,8 +68,8 @@
 
 		  if ($sendEmails) {
 		    
-		    $msg_seguros = 'Gracias por tu consulta, en breve nos contactaremos';
-		    header("Location: " . $url[0] ."?msg_seguros=". urlencode($msg_seguros) . "#notifications" );
+		    $msg_exito = 'Gracias por tu consulta, en breve nos contactaremos';
+		    header("Location: " . $url[0] ."?msg_exito=". urlencode($msg_exito) . "#notifications" );
 
 		  } else {
 

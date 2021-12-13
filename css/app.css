@@ -371,8 +371,25 @@ header.small .logo {
 	margin-bottom: 30px;
 }
 
+.contacto .content_buton_send {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
 .contacto #sending_form {
+	margin-left: 10px;
 	display: none;
+}
+
+.contacto #sending_form.active {
+	display: inline-block;
+}
+
+.contacto #send {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .contacto .datos {

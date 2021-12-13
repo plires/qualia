@@ -1,6 +1,7 @@
 const form = document.getElementsByTagName('form')[0]
 const inputs = form.getElementsByTagName('input')
 const textarea = form.getElementsByTagName('textarea')[0]
+const sending = document.getElementById('sending_form')
 
 
 function submitFormContacto(form) {
@@ -8,7 +9,7 @@ function submitFormContacto(form) {
   let formValidated = validateForm()
 
   if (formValidated) {
-    // sending.classList.add('active')
+    sending.classList.add('active')
     // REMPLAZAR ESTE NUMERO POR EL DE CONFIG
     verifyRecaptcha(form, '6LfnZJMdAAAAAAuBwszjLqdyOHG3W90tntO1hfde', 'validarFormularioContacto' )
   }

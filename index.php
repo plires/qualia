@@ -285,12 +285,6 @@
 
             <input type="hidden" name="origin" value="Formulario de Contactos">
 
-            <div id="sending_form" class="transition">
-              <div class="spinner-border text-warning" role="status">
-                <span class="visually-hidden">Enviando...</span>
-              </div>
-            </div>
-
             <!-- Nombre -->
             <div class="mb-3">
               <label for="name" class="form-label">Nombre Completo</label>
@@ -315,7 +309,7 @@
             <!-- Comentarios -->
             <div class="mb-3">
               <label for="comments" class="form-label">Tu consulta</label>
-              <textarea class="form-control" name="comments" rows="3"></textarea>
+              <textarea class="form-control" name="comments" rows="3"><?= $comments ?></textarea>
             </div>
             <!-- Comentarios end -->
 
@@ -324,12 +318,17 @@
               <label class="form-check-label" for="newsletter">suscribe newsletter</label>
             </div>
 
-            <div class="text-center">
+            <div class="content_buton_send">
               <button 
                 id="send" 
                 class="btn btn-primary" 
                 type="button" 
                 onclick="submitFormContacto('form_contacto')">ENVIAR
+                <div id="sending_form" class="transition">
+                  <div class="spinner-border text-warning" role="status">
+                    <span class="visually-hidden">Enviando...</span>
+                  </div>
+                </div>
               </button>
             </div>
 
@@ -361,7 +360,7 @@
 
           <div class="col-md-4 info">
             <p>
-              tel.: 4802-2427   |   mbarruti@remax.com.ar <br>
+              tel.: 4802-2427 | mbarruti@remax.com.ar <br>
               Av. Las Heras N°3739
             </p>
             <div class="redes">
