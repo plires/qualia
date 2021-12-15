@@ -655,19 +655,106 @@ footer .s2d img {
 /* Historicas end */
 /* BELGRANO END */
 
+/* CABALLITO */
+/* Slide Caballito */
+#slide_a_caballito {
+	background: url('../img/caballito/slide-a-mobile.jpg');
+}
+
+#slide_b_caballito {
+	background: url('../img/caballito/slide-b-mobile.jpg');
+}
+
+#slide_c_caballito {
+	background: url('../img/caballito/slide-c-mobile.jpg');
+}
+
+#slide_d_caballito {
+	background: url('../img/caballito/slide-d-mobile.jpg');
+}
+/* Slide Caballito */
+/* CABALLITO END */
+
 /* COGHLAN */
-/* Info Belgrano */
+/* Slide Coghlan */
+#slide_a_coghlan {
+	background: url('../img/coghlan/slide-a-mobile.jpg');
+}
+
+#slide_b_coghlan {
+	background: url('../img/coghlan/slide-b-mobile.jpg');
+}
+
+#slide_c_coghlan {
+	background: url('../img/coghlan/slide-c-mobile.jpg');
+}
+
+#slide_d_coghlan {
+	background: url('../img/coghlan/slide-d-mobile.jpg');
+}
+/* Slide Coghlan */
+
+/* Info Coghlan */
 .info_coghlan .bg_belgrano {
 	background-color: #ebdcd5;
 	color: black;
 }
-/* Info Belgrano end */
+/* Info Coghlan end */
 /* COGHLAN END */
+
+/* CABALLITO */
+/* Info Caballito */
+.info_caballito .bg_belgrano {
+	background-color: #465fa5;
+	color: white;
+}
+/* Info Caballito end */
+/* CABALLITO END */
 
 
 
 /* MEDIA QUERIES */
 @media (min-width: 576px) {
+
+	/* COGHLAN */
+	/* Slide Coghlan */
+	#slide_a_coghlan {
+		background: url('../img/coghlan/slide-a.jpg');
+	}
+
+	#slide_b_coghlan {
+		background: url('../img/coghlan/slide-b.jpg');
+	}
+
+	#slide_c_coghlan {
+		background: url('../img/coghlan/slide-c.jpg');
+	}
+
+	#slide_d_coghlan {
+		background: url('../img/coghlan/slide-d.jpg');
+	}
+	/* Slide Coghlan */
+	/* COGHLAN END */
+
+	/* CABALLITO */
+	/* Slide Caballito */
+	#slide_a_caballito {
+		background: url('../img/caballito/slide-a.jpg');
+	}
+
+	#slide_b_caballito {
+		background: url('../img/caballito/slide-b.jpg');
+	}
+
+	#slide_c_caballito {
+		background: url('../img/caballito/slide-c.jpg');
+	}
+
+	#slide_d_caballito {
+		background: url('../img/caballito/slide-d.jpg');
+	}
+	/* Slide Caballito */
+	/* CABALLITO END */
 
 	/* BELGRANO */
 	/* Slide Belgrano */
@@ -928,6 +1015,14 @@ footer .s2d img {
 	}
 	/* Info Coghlan end */
 	/* COGHLAN END */
+
+	/* CABALLITO */
+	/* Info Caballito */
+	.info_caballito .onda_belgrano {
+		background: url('../img/caballito/onda-azul.png')!important;
+	}
+	/* Info Caballito end */
+	/* CABALLITO END */
 
 	/* Comunes */
 	h2 {

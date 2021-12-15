@@ -8,7 +8,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="S2D Emprendimientos Inmobiliarios SRL nace en respuesta a las nuevas necesidades y posibilidades del mercado, ofreciendo el más alto nivel en innovación y estrategia inmobiliarios de primera calidad. Proyecto Coghlan">
+    <meta name="description" content="S2D Emprendimientos Inmobiliarios SRL nace en respuesta a las nuevas necesidades y posibilidades del mercado, ofreciendo el más alto nivel en innovación y estrategia inmobiliarios de primera calidad. Proyecto Caballito">
 
     <!-- Favicons -->
     <?php include('includes/favicon.php'); ?>
@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="./node_modules/slick-carousel/slick/slick-theme.css">
     <link rel="stylesheet" href="./css/app.css">
 
-    <title>S2D Emprendimientos Inmobiliarios - Proyecto Coghlan</title>
+    <title>S2D Emprendimientos Inmobiliarios - Proyecto Caballito</title>
   </head>
   <body>
 
@@ -70,30 +70,30 @@
 
         <div class="carousel-inner">
 
-          <div id="slide_a_coghlan" class="carousel-item active">
+          <div id="slide_a_caballito" class="carousel-item active">
             <div data-aos="fade-up" class="content">
-              <img src="./img/coghlan/logo-qualia-coghlan.png" alt="logo qualia coghlan a">
+              <img src="./img/caballito/logo-qualia-caballito.png" alt="logo qualia caballito a">
               <h1>TUS SUEÑOS, TU LUGAR, <span>TU DEPARTAMENTO.</span></h1>
             </div>
           </div>
 
-          <div id="slide_b_coghlan" class="carousel-item">
+          <div id="slide_b_caballito" class="carousel-item">
             <div class="content">
-              <img src="./img/coghlan/logo-qualia-coghlan.png" alt="logo qualia coghlan b">
+              <img src="./img/caballito/logo-qualia-caballito.png" alt="logo qualia caballito b">
               <h2>TUS SUEÑOS, TU LUGAR, <span>TU DEPARTAMENTO.</span></h2>
             </div>
           </div>
 
-          <div id="slide_c_coghlan" class="carousel-item">
+          <div id="slide_c_caballito" class="carousel-item">
             <div class="content">
-              <img src="./img/coghlan/logo-qualia-coghlan.png" alt="logo qualia coghlan d">
+              <img src="./img/caballito/logo-qualia-caballito.png" alt="logo qualia caballito d">
               <h2>TUS SUEÑOS, TU LUGAR, <span>TU DEPARTAMENTO.</span></h2>
             </div>
           </div>
 
-          <div id="slide_d_coghlan" class="carousel-item">
+          <div id="slide_d_caballito" class="carousel-item">
             <div class="content">
-              <img src="./img/coghlan/logo-qualia-coghlan.png" alt="logo qualia coghlan e">
+              <img src="./img/caballito/logo-qualia-caballito.png" alt="logo qualia caballito e">
               <h2>TUS SUEÑOS, TU LUGAR, <span>TU DEPARTAMENTO.</span></h2>
             </div>
           </div>
@@ -146,7 +146,7 @@
         <div data-aos="fade-up" class="col-md-6">
           <form id="form_contacto"  action="./php/validate-form-contacto.php" method="post">
 
-            <input type="hidden" name="origin" value="Formulario de Contactos Coghlan">
+            <input type="hidden" name="origin" value="Formulario de Contactos Caballito">
 
             <!-- Nombre -->
             <div class="mb-3">
@@ -203,7 +203,7 @@
     <!-- Contacto end -->
 
     <!-- Info -->
-    <section class="container-fluid iconos info_belgrano info_coghlan info p-0">
+    <section class="container-fluid iconos info_belgrano info_caballito info p-0">
 
       <div class="onda onda_belgrano"></div>
 
@@ -214,7 +214,7 @@
 
             <div data-aos="fade-up"class="col-md-8 offset-md-2">
               <p>
-                Un nuevo proyecto ubicado en el corazón de Coghlan, un barrio que es tendencia y está en constante crecimiento.
+                Un nuevo proyecto ubicado en Caballito, en una locación única como es el tradicional Barrio Inglés.
               </p>
 
               <p>
@@ -240,7 +240,7 @@
 
           <div data-aos="fade-up"class="col-md-8 offset-md-2">
             <div class="ratio ratio-16x9">
-              <iframe src="https://www.youtube.com/embed/1INEVqqJxJA?rel=0" title="Proyecto Coghlan" allowfullscreen></iframe>
+              <iframe src="https://www.youtube.com/embed/0LrazGYpwXg?rel=0" title="Proyecto Belgrano" allowfullscreen></iframe>
             </div>    
           </div>
 
@@ -252,9 +252,9 @@
     <!-- Video end -->
 
     <!-- Galeria -->
-    <?php include('./includes/galeria-coghlan.php'); ?>
+    <?php include('./includes/galeria-caballito.php'); ?>
 
-    <!-- Iconos Coghlan -->
+    <!-- Iconos Belgrano -->
     <section class="container-fluid iconos iconos_belgrano p-0">
 
       <div class="bg_belgrano">
@@ -264,98 +264,98 @@
 
             <div data-aos="fade-up" class="col-md-4 offset-md-2">
               <div class="content">
-                <img class="img-fluid" src="./img/coghlan/pisos.png" alt="icono pisos">
-                <h4>9 Pisos</h4>
+                <img class="img-fluid" src="./img/caballito/subs.png" alt="icono subs">
+                <h4>Subs, Planta Baja y 9 Pisos</h4>
               </div>
             </div>
 
             <div data-aos="fade-up" class="col-md-4">
               <div class="content">
-                <img class="img-fluid" src="./img/coghlan/sum.png" alt="icono SUM con parrilla">
+                <img class="img-fluid" src="./img/caballito/sum.png" alt="icono SUM con parrilla">
                 <h4>SUM con parrilla</h4>
               </div>
             </div>
 
             <div data-aos="fade-up" class="col-md-4 offset-md-2">
               <div class="content">
-                <img class="img-fluid" src="./img/coghlan/unidades.png" alt="icono 34 unidades funcionales">
-                <h4>34 unidades funcionales</h4>
+                <img class="img-fluid" src="./img/caballito/m2.png" alt="icono 1.100 m2 vendibles">
+                <h4>1.100 m&sup2; vendibles</h4>
               </div>
             </div>
 
             <div data-aos="fade-up" class="col-md-4">
               <div class="content">
-                <img class="img-fluid" src="./img/coghlan/cocheras.png" alt="icono Cocheras Fijas">
-                <h4>Cocheras Fijas</h4>
+                <img class="img-fluid" src="./img/caballito/cocheras.png" alt="icono Cocheras">
+                <h4>Cocheras</h4>
               </div>
             </div>
 
             <div data-aos="fade-up" class="col-md-4 offset-md-2">
               <div class="content">
-                <img class="img-fluid" src="./img/coghlan/departamentos.png" alt="icono departamentos">
-                <h4>Deptos  1 y 2 ambientes</h4>
+                <img class="img-fluid" src="./img/caballito/departamentos.png" alt="icono departamentos">
+                <h4>Deptos  1, 2 y 3 ambientes</h4>
               </div>
             </div>
 
             <div data-aos="fade-up" class="col-md-4">
               <div class="content">
-                <img class="img-fluid" src="./img/coghlan/guarda-bicicletas.png" alt="icono guarda bicicletas">
+                <img class="img-fluid" src="./img/caballito/guarda-bicicletas.png" alt="icono guarda bicicletas">
                 <h4>Guarda bicicletas / patinetas</h4>
               </div>
             </div>
 
             <div data-aos="fade-up" class="col-md-4 offset-md-2">
               <div class="content">
-                <img class="img-fluid" src="./img/coghlan/apto-profesional.png" alt="icono Apto Profesional">
+                <img class="img-fluid" src="./img/caballito/apto-profesional.png" alt="icono Apto Profesional">
                 <h4>Apto Profesional</h4>
               </div>
             </div>
 
             <div data-aos="fade-up" class="col-md-4">
               <div class="content">
-                <img class="img-fluid" src="./img/coghlan/lockers.png" alt="icono Lockers app">
+                <img class="img-fluid" src="./img/caballito/lockers.png" alt="icono Lockers app">
                 <h4>Lockers app</h4>
               </div>
             </div>
 
             <div data-aos="fade-up" class="col-md-4 offset-md-2">
               <div class="content">
-                <img class="img-fluid" src="./img/coghlan/piscina.png" alt="icono Apto Piscina">
+                <img class="img-fluid" src="./img/caballito/piscina.png" alt="icono Apto Piscina">
                 <h4>Piscina</h4>
               </div>
             </div>
 
             <div data-aos="fade-up" class="col-md-4">
               <div class="content">
-                <img class="img-fluid" src="./img/coghlan/electrogeno.png" alt="icono Grupo Electrógeno">
+                <img class="img-fluid" src="./img/caballito/grupo-electrogeno.png" alt="icono Grupo Electrógeno">
                 <h4>Grupo Electrógeno</h4>
               </div>
             </div>
 
             <div data-aos="fade-up" class="col-md-4 offset-md-2">
               <div class="content">
-                <img class="img-fluid" src="./img/coghlan/solarium.png" alt="icono Apto Solárium">
+                <img class="img-fluid" src="./img/caballito/solarium.png" alt="icono Apto Solárium">
                 <h4>Solárium</h4>
               </div>
             </div>
 
             <div data-aos="fade-up" class="col-md-4">
               <div class="content">
-                <img class="img-fluid" src="./img/coghlan/portero-visor.png" alt="icono Portero Visor">
+                <img class="img-fluid" src="./img/caballito/portero-visor.png" alt="icono Portero Visor">
                 <h4>Portero Visor</h4>
               </div>
             </div>
 
             <div data-aos="fade-up" class="col-md-4 offset-md-2">
               <div class="content last">
-                <img class="img-fluid" src="./img/coghlan/gym.png" alt="icono Apto Gym">
+                <img class="img-fluid" src="./img/caballito/gym.png" alt="icono Apto Gym">
                 <h4>Gym</h4>
               </div>
             </div>
 
             <div data-aos="fade-up" class="col-md-4">
               <div class="content last">
-                <img class="img-fluid" src="./img/coghlan/seguridad.png" alt="icono Seguridad">
+                <img class="img-fluid" src="./img/caballito/seguridad.png" alt="icono Seguridad">
                 <h4>Seguridad</h4>
               </div>
             </div>
@@ -367,14 +367,14 @@
       </div>
       
     </section>
-    <!-- Iconos Coghlan end -->
+    <!-- Iconos Belgrano end -->
 
     <!-- Planos -->
-    <?php include('./includes/planos-coghlan.php'); ?>
+    <?php include('./includes/planos-caballito.php'); ?>
 
     <!-- Mapa -->
     <section data-aos="fade-up"  class="mapa">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.765086478574!2d-58.47278538477148!3d-34.55950278047083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb686ecc80d33%3A0x18ddac469bca2a6c!2sAv.%20Congreso%203233%2C%20C1428BWA%20CABA!5e0!3m2!1ses-419!2sar!4v1639580106319!5m2!1ses-419!2sar" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.1826439018264!2d-58.44243508476991!3d-34.624824480454066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca37fd166d7d%3A0xb5c50b813f5edda6!2sValle%20881%2C%20C1424BVQ%20CABA!5e0!3m2!1ses-419!2sar!4v1639583470372!5m2!1ses-419!2sar" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     </section>
     <!-- Mapa end -->
 
@@ -384,23 +384,23 @@
       <div class="row">
 
         <div data-aos="fade-up" data-aos-delay="50" class="col-md-4 col-lg-2 offset-lg-1">
-          <img class="img-fluid" src="./img/coghlan/historica-a.jpg" alt="proyecto historico belgrano a">
+          <img class="img-fluid" src="./img/caballito/historica-a.jpg" alt="proyecto historico belgrano a">
         </div>
 
         <div data-aos="fade-up" data-aos-delay="150" class="col-md-4 col-lg-2">
-          <img class="img-fluid" src="./img/coghlan/historica-b.jpg" alt="proyecto historico belgrano b">
+          <img class="img-fluid" src="./img/caballito/historica-b.jpg" alt="proyecto historico belgrano b">
         </div>
 
         <div data-aos="fade-up" data-aos-delay="200" class="col-md-4 col-lg-2">
-          <img class="img-fluid" src="./img/coghlan/historica-c.jpg" alt="proyecto historico belgrano c">
+          <img class="img-fluid" src="./img/caballito/historica-c.jpg" alt="proyecto historico belgrano c">
         </div>
 
         <div data-aos="fade-up" data-aos-delay="250" class="col-md-4 col-lg-2">
-          <img class="img-fluid last" src="./img/coghlan/historica-d.jpg" alt="proyecto historico belgrano d">
+          <img class="img-fluid last" src="./img/caballito/historica-d.jpg" alt="proyecto historico belgrano d">
         </div>
 
         <div data-aos="fade-up" data-aos-delay="300" class="col-md-4 col-lg-2">
-          <img class="img-fluid last" src="./img/coghlan/historica-e.jpg" alt="proyecto historico belgrano e">
+          <img class="img-fluid last" src="./img/caballito/historica-e.jpg" alt="proyecto historico belgrano e">
         </div>
        
       </div>

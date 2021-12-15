@@ -236,7 +236,7 @@
           <img class="img-fluid" src="./img/proyecto-caballito.jpg" alt="proyecto caballito">
           <div class="content">
             <img class="img-fluid logo_proyecto" src="./img/qualia-caballito.png" alt="qualia caballito">
-            <a class="transition" href="#">VER MÁS</a>
+            <a class="transition" href="./caballito.php">VER MÁS</a>
           </div>
         </div>
         <div data-aos="fade-up" data-aos-delay="200" class="col-md-4 col-lg-2 proximamente">
