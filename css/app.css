@@ -133,8 +133,8 @@ header .content_mobile {
 }
 
 header .logo {
+	max-width: 80px;
 	content:url("../img/logo-qualia.png");
-	transform: scale(0.8);
 }
 
 header nav {
@@ -655,6 +655,15 @@ footer .s2d img {
 /* Historicas end */
 /* BELGRANO END */
 
+/* COGHLAN */
+/* Info Belgrano */
+.info_coghlan .bg_belgrano {
+	background-color: #ebdcd5;
+	color: black;
+}
+/* Info Belgrano end */
+/* COGHLAN END */
+
 
 
 /* MEDIA QUERIES */
@@ -912,6 +921,14 @@ footer .s2d img {
 	/* Historicas Belgrano end */
 	/* BELGRANO END */
 
+	/* COGHLAN */
+	/* Info Coghlan */
+	.info_coghlan .onda_belgrano {
+		background: url('../img/coghlan/onda-rosa.png')!important;
+	}
+	/* Info Coghlan end */
+	/* COGHLAN END */
+
 	/* Comunes */
 	h2 {
 		font-size: 2rem;
@@ -1014,7 +1031,6 @@ footer .s2d img {
 	}
 
 	header .logo {
-		transform: scale(1);
 		max-width: 110px;
 	}
 

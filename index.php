@@ -29,7 +29,9 @@
           <div class="col-md-12">
 
             <div class="content_mobile">
-              <img class="logo transition" class="img-fluid" src="#" alt="logo qualia">
+              <a href="./">
+                <img class="logo transition" class="img-fluid" src="#" alt="logo qualia">
+              </a>
               <div class="transition" id="toggleIcon">
                 <i id="hamburger" class="transition fas fa-bars"></i>
               </div>
@@ -220,14 +222,14 @@
           <img class="img-fluid" src="./img/proyecto-belgrano.jpg" alt="proyecto belgrano">
           <div class="content">
             <img class="img-fluid logo_proyecto" src="./img/qualia-belgrano.png" alt="qualia belgrano">
-            <a class="transition" href="belgrano.php">VER MÁS</a>
+            <a class="transition" href="./belgrano.php">VER MÁS</a>
           </div>
         </div>
         <div data-aos="fade-up" data-aos-delay="100" class="col-md-4 col-lg-2">
           <img class="img-fluid" src="./img/proyecto-coghlan.jpg" alt="proyecto coghlan">
           <div class="content">
             <img class="img-fluid logo_proyecto" src="./img/qualia-coghlan.png" alt="qualia coghlan">
-            <a class="transition" href="#">VER MÁS</a>
+            <a class="transition" href="./coghlan.php">VER MÁS</a>
           </div>
         </div>
         <div data-aos="fade-up" data-aos-delay="150" class="col-md-4 col-lg-2">
