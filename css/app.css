@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;700&display=swap');
 
-
 /* Variables */
 :root {
   --primary-color: #769fb9;
@@ -134,8 +133,8 @@ header .content_mobile {
 }
 
 header .logo {
-	max-width: 80px;
 	content:url("../img/logo-qualia.png");
+	transform: scale(0.8);
 }
 
 header nav {
@@ -261,10 +260,6 @@ header.small .logo {
 
 .slides_home #slide_c {
 	background: url('../img/slide-c-mobile.jpg');
-}
-
-.slides_home #slide_d {
-	background: url('../img/slide-d-mobile.jpg');
 }
 
 .slides_home .carousel-indicators [data-bs-target] {
@@ -514,11 +509,198 @@ footer .s2d img {
 /* Footer end */
 
 
+/* BELGRANO */
+/* Slide Belgrano */
+.slides_belgrano #slide_a_belgrano {
+	background: url('../img/belgrano/slide-a-mobile.jpg');
+}
+
+.slides_belgrano #slide_b_belgrano {
+	background: url('../img/belgrano/slide-b-mobile.jpg');
+}
+
+.slides_belgrano #slide_c_belgrano {
+	background: url('../img/belgrano/slide-c-mobile.jpg');
+}
+
+.slides_belgrano #slide_d_belgrano {
+	background: url('../img/belgrano/slide-d-mobile.jpg');
+}
+
+.slides_belgrano h1,
+.slides_belgrano h2 {
+	background: transparent;
+}
+
+.slides_belgrano h1 span,
+.slides_belgrano h2 span {
+	font-size: 1.5rem;
+}
+
+.slides_belgrano .content {
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+.slides_belgrano .content img {
+	max-width: 40%;
+}
+/* Slide Belgrano */
+
+/* Info Belgrano */
+.info_belgrano .bg_belgrano {
+	background-color: #769fb9;
+	text-align: center;
+	color: white;
+}
+
+.info_belgrano p {
+	font-weight: 100;
+}
+/* Info Belgrano end */
+
+/* Video Belgrano */
+.video {
+	margin-bottom: 30px;
+	background-color: #d7d7d7;
+	padding-top: 60px!important;
+	padding-bottom: 60px!important;
+	margin-bottom: 0;
+}
+/* Video Belgrano end */
+
+/* Galeria Belgrano */
+.galeria .slick-slide {
+	height: auto;
+}
+/* Galeria Belgrano end */
+
+/* Iconos Belgrano */
+.iconos_belgrano {
+	background-color: black;
+	padding-top: 30px!important;
+	padding-bottom: 30px!important;
+	margin-bottom: 30px;
+}
+
+.iconos_belgrano .content {
+	margin-bottom: 15px!important;
+}
+
+.iconos_belgrano .content:last-child {
+	margin-bottom: 0;
+}
+/* Iconos Belgrano end */
+
+/* Planos */
+.planos {
+	margin-bottom: 30px;
+}
+
+.planos .col-md-12 h4 {
+	font-size: 1.125rem;
+	font-weight: 700;
+}
+
+.planos .col-md-12 p {
+	font-weight: 100;
+	border-top: solid 1px black;
+	margin-bottom: 0;
+	padding: 5px 0;
+}
+
+.planos .col-md-8 {
+	border-top: solid 1px grey;
+	border-bottom: solid 1px grey;
+}
+
+.planos .col-md-8 img {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.planos .col-md-4 p {
+	border: none;
+	margin-bottom: 5px;
+	font-size: 0.85rem;
+	font-weight: 100;
+}
+
+.planos .carousel-control-prev-icon,
+.planos .carousel-control-next-icon {
+	background-color: rgb(0, 0, 0, 0.1);
+	border-radius: 50%;
+}
+/* Planos end */
+
+/* Historicas */
+.historicas {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: #d7d7d7;
+	margin-bottom: 30px;
+}
+
+.historicas .col-md-4 {
+	text-align: center;
+}
+
+.historicas img {
+	margin-bottom: 15px;
+}
+
+.historicas .col-md-4:last-child img {
+	margin-bottom: 0;
+}
+/* Historicas end */
+/* BELGRANO END */
 
 
 
 /* MEDIA QUERIES */
 @media (min-width: 576px) {
+
+	/* BELGRANO */
+	/* Slide Belgrano */
+	.slides_belgrano #slide_a_belgrano {
+		background: url('../img/belgrano/slide-a.jpg');
+	}
+
+	.slides_belgrano #slide_b_belgrano {
+		background: url('../img/belgrano/slide-b.jpg');
+	}
+
+	.slides_belgrano #slide_c_belgrano {
+		background: url('../img/belgrano/slide-c.jpg');
+	}
+
+	.slides_belgrano #slide_d_belgrano {
+		background: url('../img/belgrano/slide-d.jpg');
+	}
+
+	.slides_belgrano .content img {
+		max-width: 25%;
+	}
+	/* Slide Belgrano */
+
+	/* Info Belgrano */
+	.info_belgrano p {
+		font-size: 1.125rem;
+	}
+	/* Info Belgrano end */
+
+	/* Planos */
+	.planos .col-md-4 p {
+		font-size: 1rem;
+	}
+	/* Planos end */
+
+	/* Historicas */
+	.historicas img.last {
+		margin-bottom: 0;
+	}
+	/* Historicas end */
+	/* BELGRANO END */
 
 	/* Slide Home */
 	.slides_home h1,
@@ -575,6 +757,43 @@ footer .s2d img {
 }
 
 @media (min-width: 768px) {
+
+	/* BELGRANO */
+	/* Slide Belgrano */
+	.slides_belgrano .content img {
+		max-width: 20%;
+	}
+
+	.slides_belgrano h1 span, 
+	.slides_belgrano h2 span {
+		font-size: 1.75rem;
+	}
+	/* Slide Belgrano end */
+
+	/* Iconos Belgrano */
+	.iconos_belgrano .content.last {
+		margin-bottom: 0!important;
+	}
+	/* Iconos Belgrano end */
+
+	/* Planos */
+	.planos .col-md-12 p {
+		margin-bottom: 15px;
+	}
+
+	.planos .col-md-8 {
+		border: none;
+		border-right: solid 2px grey;
+	}
+
+	.planos .col-md-8,
+	.planos .col-md-4 {
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+	}
+	/* Planos end */
+	/* BELGRANO END */
 
 	/* Comunes end */
 	.whatsapp {
@@ -646,6 +865,52 @@ footer .s2d img {
 }
 
 @media (min-width: 992px) {
+
+	/* BELGRANO */
+	/* Slide Belgrano */
+	.slides_belgrano h1 span, 
+	.slides_belgrano h2 span {
+		font-size: 2.25rem;
+	}
+	/* Slide Belgrano end */
+
+	/* Info Belgrano */
+	.info_belgrano {
+		margin-bottom: 0!important;
+	}
+
+	.info_belgrano .onda_belgrano {
+		background: url('../img/belgrano/onda-celeste.png')!important;
+	}
+	/* Info Belgrano end */
+
+	/* Iconos Belgrano */
+	.iconos {
+		margin-bottom: 60px;
+	}
+	/* Iconos Belgrano end */
+
+	/* Planos Belgrano */
+	.planos {
+		margin-bottom: 60px;
+	}
+
+	.planos .col-md-4 p {
+		font-weight: 400;
+	}
+	/* Planos Belgrano end */
+
+	/* Historicas Belgrano */
+	.historicas {
+		padding-top: 60px;
+		padding-bottom: 60px;
+		margin-bottom: 60px;
+	}
+	.historicas img {
+		margin-bottom: 0;
+	}
+	/* Historicas Belgrano end */
+	/* BELGRANO END */
 
 	/* Comunes */
 	h2 {
@@ -724,6 +989,15 @@ footer .s2d img {
 
 @media (min-width: 1200px) {
 
+	/* BELGRANO */
+	/* Slide Belgrano */
+	.slides_belgrano h1 span, 
+	.slides_belgrano h2 span {
+		font-size: 3.25rem;
+	}
+	/* Slide Belgrano end */
+	/* BELGRANO END */
+
 	/* Comunes */
 	h2 {
 		font-size: 2.5rem;
@@ -740,6 +1014,7 @@ footer .s2d img {
 	}
 
 	header .logo {
+		transform: scale(1);
 		max-width: 110px;
 	}
 

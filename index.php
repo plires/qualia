@@ -16,8 +16,6 @@
     <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="./node_modules/@fortawesome/fontawesome-free/css/all.min.css">
     <link rel="stylesheet" href="./node_modules/aos/dist/aos.css">
-    <link rel="stylesheet" href="./node_modules/slick-carousel/slick/slick.css">
-    <link rel="stylesheet" href="./node_modules/slick-carousel/slick/slick-theme.css">
     <link rel="stylesheet" href="./css/app.css">
 
     <title>S2D Emprendimientos Inmobiliarios</title>
@@ -222,7 +220,7 @@
           <img class="img-fluid" src="./img/proyecto-belgrano.jpg" alt="proyecto belgrano">
           <div class="content">
             <img class="img-fluid logo_proyecto" src="./img/qualia-belgrano.png" alt="qualia belgrano">
-            <a class="transition" href="#">VER MÁS</a>
+            <a class="transition" href="belgrano.php">VER MÁS</a>
           </div>
         </div>
         <div data-aos="fade-up" data-aos-delay="100" class="col-md-4 col-lg-2">
@@ -392,7 +390,6 @@
     <script src="./node_modules/aos/dist/aos.js"></script>
     <script src="./node_modules/jquery.easing/jquery.easing.min.js"></script>
     <script src="https://www.google.com/recaptcha/api.js?render=<?= RECAPTCHA_KEY_SITE ?>"></script>
-    <script src="./node_modules/slick-carousel/slick/slick.js"></script>
     <script type="text/javascript" src="./js/contactos.js"></script>
     <script src="./js/app.js"></script>
 
