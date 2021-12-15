@@ -18,10 +18,10 @@
 
               <div class="col-md-4">
                 <p>
-                  Cocheras
-                  Monta Autos
-                  Guarda Bicicletas
-                  Baño
+                  Cocheras<br>
+                  Monta Autos<br>
+                  Guarda Bicicletas<br>
+                  Baño<br>
                   Ascensor
                 </p>
               </div>
@@ -40,13 +40,13 @@
 
               <div class="col-md-4">
                 <p>
-                  Depto A
-                  Hall Acceso Peatonal
-                  Acceso Vehicular
-                  Monta Autos
-                  Cochera
-                  Bauleras
-                  Baño
+                  <strong>Depto A</strong><br>
+                  Hall Acceso Peatonal<br>
+                  Acceso Vehicular<br>
+                  Monta Autos<br>
+                  Cochera<br>
+                  Bauleras<br>
+                  Baño<br>
                   Ascensor
                 </p>
               </div>
@@ -68,22 +68,22 @@
 
               <div class="col-md-4">
                 <p>
-                  Depto A
-                  Cubierto: 25,0 m&sup2;
-                  Balcón / Terraza: 3,3 m&sup2;
+                  <strong>Depto A</strong><br>
+                  Cubierto: 25,0 m&sup2;<br>
+                  Balcón / Terraza: 3,3 m&sup2;<br>
                   Total: 28,3 m&sup2;
                 </p>
                 <p>
-                  Depto B
-                  Cubierto: 44,8 m&sup2;
-                  Balcón / Terraza: 7,2 m&sup2;
+                  <strong>Depto B</strong><br>
+                  Cubierto: 44,8 m&sup2;<br>
+                  Balcón / Terraza: 7,2 m&sup2;<br>
                   Total: 52,0 m&sup2;
                 </p>
                 <p>
-                  Depto C
-                  Cubierto: 39,3 m&sup2;
-                  Balcón / Terraza: 7,8 m&sup2;
-                  Total: 47,1 m&sup2; 
+                  <strong>Depto C</strong><br>
+                  Cubierto: 39,3 m&sup2;<br>
+                  Balcón / Terraza: 7,8 m&sup2;<br>
+                  Total: 47,1 m&sup2;
                 </p>
               </div>
             </div>
@@ -104,15 +104,15 @@
 
               <div class="col-md-4">
                 <p>
-                  Depto A
-                  Cubierto: 55,5 m&sup2;
-                  Balcón / Terraza: 16,6 m&sup2;
+                  <strong>Depto A</strong><br>
+                  Cubierto: 55,5 m&sup2;<br>
+                  Balcón / Terraza: 16,6 m&sup2;<br>
                   Total: 72,1 m&sup2;
                 </p>
                 <p>
-                  Depto B
-                  Cubierto: 39,3 m&sup2;
-                  Balcón / Terraza: 7,8 m&sup2;
+                  <strong>Depto B</strong><br>
+                  Cubierto: 39,3 m&sup2;<br>
+                  Balcón / Terraza: 7,8 m&sup2;<br>
                   Total: 47,1 m&sup2;
                 </p>  
               </div>
@@ -134,8 +134,8 @@
 
               <div class="col-md-4">
                 <p>
-                  Cubierto: 30,3 m&sup2; 
-                  Balcón / Terraza: 7,8 m&sup2;
+                  Cubierto: 30,3 m&sup2;<br> 
+                  Balcón / Terraza: 7,8 m&sup2;<br>
                   Total: 47,1 m&sup2; 
                 </p>
               </div>

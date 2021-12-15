@@ -73,28 +73,32 @@
           <div id="slide_a_caballito" class="carousel-item active">
             <div data-aos="fade-up" class="content">
               <img src="./img/caballito/logo-qualia-caballito.png" alt="logo qualia caballito a">
-              <h1>TUS SUEÑOS, TU LUGAR, <span>TU DEPARTAMENTO.</span></h1>
+              <h1>QUALIA LIVE III CABALLITO</h1>
+              <p>DEPARTAMENTOS DE 1 Y 2 AMBIENTES DE APTO PROFESIONAL.</p>
             </div>
           </div>
 
           <div id="slide_b_caballito" class="carousel-item">
             <div class="content">
               <img src="./img/caballito/logo-qualia-caballito.png" alt="logo qualia caballito b">
-              <h2>TUS SUEÑOS, TU LUGAR, <span>TU DEPARTAMENTO.</span></h2>
+              <h2>QUALIA LIVE III CABALLITO</h2>
+              <p>DEPARTAMENTOS DE 1 Y 2 AMBIENTES DE APTO PROFESIONAL.</p>
             </div>
           </div>
 
           <div id="slide_c_caballito" class="carousel-item">
             <div class="content">
               <img src="./img/caballito/logo-qualia-caballito.png" alt="logo qualia caballito d">
-              <h2>TUS SUEÑOS, TU LUGAR, <span>TU DEPARTAMENTO.</span></h2>
+              <h2>QUALIA LIVE III CABALLITO</h2>
+              <p>DEPARTAMENTOS DE 1 Y 2 AMBIENTES DE APTO PROFESIONAL.</p>
             </div>
           </div>
 
           <div id="slide_d_caballito" class="carousel-item">
             <div class="content">
               <img src="./img/caballito/logo-qualia-caballito.png" alt="logo qualia caballito e">
-              <h2>TUS SUEÑOS, TU LUGAR, <span>TU DEPARTAMENTO.</span></h2>
+              <h2>QUALIA LIVE III CABALLITO</h2>
+              <p>DEPARTAMENTOS DE 1 Y 2 AMBIENTES DE APTO PROFESIONAL.</p>
             </div>
           </div>
 
@@ -148,54 +152,9 @@
 
             <input type="hidden" name="origin" value="Formulario de Contactos Caballito">
 
-            <!-- Nombre -->
-            <div class="mb-3">
-              <label for="name" class="form-label">Nombre Completo</label>
-              <input type="text" class="form-control" name="name" value="<?= $name ?>">
-            </div>
-            <!-- Nombre end -->
-
-            <!-- Email -->
-            <div class="mb-3">
-              <label for="email" class="form-label">Email</label>
-              <input type="email" class="form-control" name="email" value="<?= $email ?>">
-            </div>
-            <!-- Email end -->
-
-            <!-- Telefono -->
-            <div class="mb-3">
-              <label for="phone" class="form-label">Telefono</label>
-              <input type="text" class="form-control" name="phone" value="<?= $phone ?>">
-            </div>
-            <!-- Telefono end -->
-
-            <!-- Comentarios -->
-            <div class="mb-3">
-              <label for="comments" class="form-label">Tu consulta</label>
-              <textarea class="form-control" name="comments" rows="3"><?= $comments ?></textarea>
-            </div>
-            <!-- Comentarios end -->
-
-            <div class="mb-3 form-check">
-              <input checked type="checkbox" class="form-check-input" name="newsletter">
-              <label class="form-check-label" for="newsletter">suscribe newsletter</label>
-            </div>
-
-            <div class="content_buton_send">
-              <button 
-                id="send" 
-                class="btn btn-primary" 
-                type="button" 
-                onclick="submitFormContacto('form_contacto')">ENVIAR
-                <div id="sending_form" class="transition">
-                  <div class="spinner-border text-warning" role="status">
-                    <span class="visually-hidden">Enviando...</span>
-                  </div>
-                </div>
-              </button>
-            </div>
-
-          </form>  
+            <!-- Footer -->
+            <?php require ('partials/partial-form.php'); ?>
+             
         </div>
 
       </div>
@@ -408,49 +367,7 @@
     <!-- Historicas end -->
 
     <!-- Footer -->
-    <footer class="container-fluid">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-md-4 logos">
-            <div class="content">
-              <img src="./img/globo-remax.png" alt="globo remax">
-              <div class="datos">
-                <p>
-                  <span>Comercializa:</span> <br>
-                  MIRTA BARRUTI <br>
-                  Agente de
-                </p>
-                <img src="./img/logo-remax.png" alt="logo remax">
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-4 info">
-            <p>
-              tel.: 4802-2427 | mbarruti@remax.com.ar <br>
-              Av. Las Heras N°3739
-            </p>
-            <div class="redes">
-              <a class="transition" target="_blank" rel="noopener noreferrer" href="<?= WHATSAPP ?>">
-                <img class="transition img-fluid" src="./img/whatsapp.png" alt="whatsapp footer">
-              </a>
-              <a class="transition" target="_blank" rel="noopener noreferrer" href="<?= INSTAGRAM ?>">
-                <img class="transition img-fluid" src="./img/instagram.png" alt="instagram footer">
-              <a class="transition" target="_blank" rel="noopener noreferrer" href="<?= FACEBOOK ?>">
-                <img class="transition img-fluid" src="./img/facebook.png" alt="facebook footer">
-              </a>
-            </div>
-          </div>
-
-          <div class="col-md-4 s2d">
-            <img class="transition img-fluid" src="./img/logo-footer.png" alt="logo qualia footer">
-          </div>
-
-        </div>
-      </div>
-    </footer>
-    <!-- Footer end -->
+    <?php require ('includes/footer.php'); ?>
 
     <script src="./node_modules/jquery/dist/jquery.min.js" ></script>
     <script src="./node_modules/bootstrap/dist/js/bootstrap.min.js" ></script>

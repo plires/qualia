@@ -95,7 +95,7 @@ input:focus-visible {
 	width: 80px;
 	height: 80px;
 	border-radius: 50%;
-	background-color: black;
+	background-color: #1ce070;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -105,7 +105,7 @@ input:focus-visible {
 }
 
 .whatsapp:hover {
-	background-color: #1ce070;
+	background-color: black;
 }
 /* Comunes end */
 
@@ -229,13 +229,21 @@ header.small .logo {
 .slides_home h1,
 .slides_home h2 {
 	font-size: 1.25rem;
+	font-weight: 400;
+	color: white;
+	width: 210px;
+	text-align: center;
+	margin-bottom: 5px;
+	padding-bottom: 2px;
+	border-bottom: 1px solid white;
+}
+
+.slides_home p {
+	font-size: 0.85rem;
 	font-weight: 100;
 	color: white;
-	width: 60%;
-	border-radius: 5px;
+	width: 210px;
 	text-align: center;
-	padding: 5px 8px;
-	background-color: rgb(0, 0, 0, 0.6);
 	margin-bottom: 0;
 }
 
@@ -248,6 +256,7 @@ header.small .logo {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	flex-direction: column;
 }
 
 .slides_home #slide_a {
@@ -430,8 +439,9 @@ header.small .logo {
 }
 
 .contacto form .form-check-label {
-	font-size: 0.65rem;
+	font-size: 0.55rem;
 	color: grey;
+	margin-top: 5px;
 }
 
 .contacto form input,
@@ -529,21 +539,21 @@ footer .s2d img {
 
 .slides_belgrano h1,
 .slides_belgrano h2 {
-	background: transparent;
+	width: 250px;
 }
 
-.slides_belgrano h1 span,
-.slides_belgrano h2 span {
-	font-size: 1.5rem;
+.slides_belgrano p {
+	width: 250px;
 }
 
 .slides_belgrano .content {
 	flex-direction: column;
-	justify-content: space-around;
+	justify-content: center;
 }
 
 .slides_belgrano .content img {
 	max-width: 40%;
+	margin-bottom: 100px;
 }
 /* Slide Belgrano */
 
@@ -776,6 +786,16 @@ footer .s2d img {
 
 	.slides_belgrano .content img {
 		max-width: 25%;
+		margin-bottom: 40px;
+	}
+
+	.slides_belgrano h1,
+	.slides_belgrano h2 {
+		width: 280px!important;
+	}
+
+	.slides_belgrano p {
+		width: 280px!important;
 	}
 	/* Slide Belgrano */
 
@@ -802,7 +822,12 @@ footer .s2d img {
 	.slides_home h1,
 	.slides_home h2 {
 		font-size: 1.5rem;
-		padding: 7px 10px;
+		width: 255px;
+	}
+
+	.slides_home p {
+		font-size: 0.85rem;
+		width: 255px;
 	}
 
 	.slides_home #slide_a {
@@ -857,12 +882,7 @@ footer .s2d img {
 	/* BELGRANO */
 	/* Slide Belgrano */
 	.slides_belgrano .content img {
-		max-width: 20%;
-	}
-
-	.slides_belgrano h1 span, 
-	.slides_belgrano h2 span {
-		font-size: 1.75rem;
+		max-width: 17%;
 	}
 	/* Slide Belgrano end */
 
@@ -963,12 +983,16 @@ footer .s2d img {
 @media (min-width: 992px) {
 
 	/* BELGRANO */
-	/* Slide Belgrano */
-	.slides_belgrano h1 span, 
-	.slides_belgrano h2 span {
-		font-size: 2.25rem;
+	/* Slides Belgrano */
+	.slides_belgrano h1,
+	.slides_belgrano h2 {
+		width: 370px!important;
 	}
-	/* Slide Belgrano end */
+
+	.slides_belgrano p {
+		width: 370px!important;
+	}
+	/* Slides Belgrano end */
 
 	/* Info Belgrano */
 	.info_belgrano {
@@ -1042,7 +1066,12 @@ footer .s2d img {
 	.slides_home h1,
 	.slides_home h2 {
 		font-size: 2rem;
-		max-width: 30%;
+		width: 340px;
+	}
+
+	.slides_home p {
+		font-size: 1rem;
+		width: 340px;
 	}
 	/* Slide Home end */
 
@@ -1100,15 +1129,6 @@ footer .s2d img {
 }
 
 @media (min-width: 1200px) {
-
-	/* BELGRANO */
-	/* Slide Belgrano */
-	.slides_belgrano h1 span, 
-	.slides_belgrano h2 span {
-		font-size: 3.25rem;
-	}
-	/* Slide Belgrano end */
-	/* BELGRANO END */
 
 	/* Comunes */
 	h2 {
@@ -1185,8 +1205,12 @@ footer .s2d img {
 	.slides_home h1,
 	.slides_home h2 {
 		font-size: 3rem;
-		width: 50%;
-		max-width: 50%;
+		width: 505px;
+	}
+
+	.slides_home p {
+		font-size: 1.25rem;
+		width: 505px;
 	}
 	/* Slide end */
 
@@ -1212,6 +1236,12 @@ footer .s2d img {
 	}
 	/* Iconos end */
 
+	/* Info Belgrano */
+	.info_belgrano p {
+		font-size: 1.5rem;
+	}
+	/* Info Belgrano end */
+
 	/* Proyectos */
 	.proyectos {
 		padding-top: 60px;
@@ -1234,17 +1264,30 @@ footer .s2d img {
 	}
 	/* Contacto end */
 
+	/* BELGRANO */
+	/* Slides Belgrano */
+	.slides_belgrano h1,
+	.slides_belgrano h2 {
+		width: 590px!important;
+	}
+
+	.slides_belgrano p {
+		width: 590px!important;
+	}
+
+	.slides_belgrano .content img {
+    max-width: 20%;
+    margin-bottom: 150px;
+	}
+	/* BELGRANO END */
+	/* Slides Belgrano end */
+
 }
 
 @media (min-width: 1400px) {
 	/* Slide */
 	.slides_home .carousel-item {
 		height: 750px;
-	}
-
-	.slides_home h1, .slides_home h2 {
-		max-width: 30%;
-		width: 30%;
 	}
 	/* Slide end */
 
@@ -1265,6 +1308,10 @@ footer .s2d img {
 
 	.contacto form label {
 		font-size: 1rem;
+	}
+
+	.contacto form .form-check-label {
+		font-size: 0.65rem;
 	}
 	/* Contacto end */
 

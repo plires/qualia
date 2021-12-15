@@ -19,18 +19,17 @@
 
               <div class="col-md-4">
                 <p>
-                  Local Comercial
+                  <strong>Local Comercial</strong><br>
                   35,10 m&sup2;
                 </p>
                 <p>
-                  Bauleras/guarda bicicletas
+                  <strong>Bauleras/guarda bicicletas</strong><br>
                   50 m&sup2;
                 </p>
                 <p>
-                  Superficie Total
+                  <strong>Superficie Total</strong><br>
                   85,10 m&sup2; 
                 </p>
-
               </div>
             </div>
           </div>
@@ -39,7 +38,7 @@
             <div class="row">
               <div class="col-md-12">
                 <h4>Planta Tipo 1&deg;</h4>
-                <p>Departamentos A - B  (1 amb – Frente) C – ( 1 amb c/Frente)</p>
+                <p>Departamentos A - B (1 amb – Frente) C – ( 1 amb c/Frente)</p>
               </div>
 
               <div class="col-md-8">
@@ -48,21 +47,21 @@
 
               <div class="col-md-4">
                 <p>
-                  Depto A
-                  Cubierto: 24,4 m&sup2; 
-                  Balcón / Terraza: 5,3 m&sup2;
+                  <strong>Depto A</strong><br>
+                  Cubierto: 24,4 m&sup2;<br>
+                  Balcón / Terraza: 5,3 m&sup2;<br>
                   Total: 29,7 m&sup2;
                 </p>
                 <p>
-                  Depto B
-                  Cubierto: 30,1 m&sup2; 
-                  Balcón / Terraza: 5,3 m&sup2;
+                  <strong>Depto B</strong><br>
+                  Cubierto: 30,1 m&sup2;<br>
+                  Balcón / Terraza: 5,3 m&sup2;<br>
                   Total: 35,4 m&sup2;
                 </p>
                 <p>
-                  Depto C
-                  Cubierto: 32,1 m&sup2; 
-                  Balcón / Terraza: 12,7 m&sup2;
+                  <strong>Depto C</strong><br>
+                  Cubierto: 32,1 m&sup2;<br>
+                  Balcón / Terraza: 12,7 m&sup2;<br>
                   Total: 45 m&sup2; 
                 </p>
               </div>
@@ -82,22 +81,22 @@
 
               <div class="col-md-4">
                 <p>
-                  Depto A
-                  Cubierto: 24,4 m&sup2; 
-                  Balcón / Terraza: 5,3 m&sup2;
+                  <strong>Depto A</strong><br>
+                  Cubierto: 24,4 m&sup2;<br>
+                  Balcón / Terraza: 5,3 m&sup2;<br>
                   Total: 29,7 m&sup2;
                 </p>
                 <p>
-                  Depto B
-                  Cubierto: 30,1 m&sup2; 
-                  Balcón / Terraza: 5,3 m&sup2;
+                  <strong>Depto B</strong><br>
+                  Cubierto: 30,1 m&sup2;<br>
+                  Balcón / Terraza: 5,3 m&sup2;<br>
                   Total: 35,4 m&sup2;
                 </p>
                 <p>
-                  Depto C
-                  Cubierto: 32,3 m&sup2; 
-                  Balcón / Terraza: 3,8 m&sup2;
-                  Total: 36,1 m&sup2; 
+                  <strong>Depto C</strong><br>
+                  Cubierto: 32,3 m&sup2;<br>
+                  Balcón / Terraza: 3,8 m&sup2;<br>
+                  Total: 36,1 m&sup2;
                 </p>
               </div>
             </div>
@@ -107,7 +106,7 @@
             <div class="row">
               <div class="col-md-12">
                 <h4>Planta Tipo  5&deg;</h4>
-                <p>Departamentos A – (2 amb – Frente)  B – (1 amb – c/Frente)</p>
+                <p>Departamentos A – (2 amb – Frente) B – (1 amb – c/Frente)</p>
               </div>
 
               <div class="col-md-8">
@@ -116,15 +115,15 @@
 
               <div class="col-md-4">
                 <p>
-                  Depto A
-                  Cubierto: 55,7 m&sup2; 
-                  Balcón / Terraza: 10,7 m&sup2;
+                  <strong>Depto A</strong><br>
+                  Cubierto: 55,7 m&sup2;<br>
+                  Balcón / Terraza: 10,7 m&sup2;<br>
                   Total: 65,9 m&sup2;
                 </p>
                 <p>
-                  Depto B
-                  Cubierto: 32,2 m&sup2; 
-                  Balcón / Terraza: 3,8 m&sup2;
+                  <strong>Depto B</strong><br>
+                  Cubierto: 32,2 m&sup2;<br>
+                  Balcón / Terraza: 3,8 m&sup2;<br>
                   Total: 36,0 m&sup2; 
                 </p>
               </div>
@@ -135,7 +134,7 @@
             <div class="row">
               <div class="col-md-12">
                 <h4>Planta Tipo 7&deg;</h4>
-                <p>Departamento A -  (3 Amb Frente y c/Frente)</p>
+                <p>Departamento A - (3 Amb Frente y c/Frente)</p>
               </div>
 
               <div class="col-md-8">
@@ -144,9 +143,9 @@
 
               <div class="col-md-4">
                 <p>
-                  Depto A
-                  Cubierto: 88,8 m&sup2; 
-                  Balcón / Terraza: 14,3 m&sup2;
+                  <strong>Depto A</strong><br>
+                  Cubierto: 88,8 m&sup2;<br>
+                  Balcón / Terraza: 14,3 m&sup2;<br>
                   Total: 103,1 m&sup2;
                 </p>
               </div>
@@ -166,15 +165,15 @@
 
               <div class="col-md-4">
                 <p>
-                  Depto A
-                  Cubierto: 36,0 m&sup2; 
-                  Balcón / Terraza: 16,7 m&sup2;
+                  <strong>Depto A</strong><br>
+                  Cubierto: 36,0 m&sup2;<br>
+                  Balcón / Terraza: 16,7 m&sup2;<br>
                   Total: 52,7 m&sup2;
                 </p>
                 <p>
-                  Depto B
-                  Cubierto: 32,3 m&sup2; 
-                  Balcón / Terraza: 3,8 m&sup2;
+                  <strong>Depto B</strong><br>
+                  Cubierto: 32,3 m&sup2;<br>
+                  Balcón / Terraza: 3,8 m&sup2;<br>
                   Total: 36,1 m&sup2;
                 </p>  
               </div>
@@ -194,8 +193,8 @@
 
               <div class="col-md-4">
                 <p>
-                  Cubierto: 27,3 m&sup2; 
-                  Balcón / Terraza: 22,7 m&sup2;
+                  Cubierto: 27,3 m&sup2;<br>
+                  Balcón / Terraza: 22,7 m&sup2;<br>
                   Total: 50 m&sup2;
                 </p>  
               </div>
