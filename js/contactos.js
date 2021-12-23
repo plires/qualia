@@ -10,7 +10,7 @@ function submitFormContacto(form) {
 
   if (formValidated) {
     sending.classList.add('active')
-    verifyRecaptcha(form, recaptchaKeySite, 'validarFormularioContacto' )
+    verifyRecaptcha(form, '6LfnZJMdAAAAAAuBwszjLqdyOHG3W90tntO1hfde', 'validarFormularioContacto' )
   }
 
 }
