@@ -69,21 +69,21 @@
 
           <div id="slide_a" class="carousel-item active">
             <div data-aos="fade-up" class="content">
-              <h1>CONOCE QUALIA LIVE.</h1>
+              <h1>CONOCÉ QUALIA LIVE.</h1>
               <p>TUS SUEÑOS, TU LUGAR. TU DEPARTAMENTO.</p>
             </div>
           </div>
 
           <div id="slide_b" class="carousel-item">
             <div class="content">
-              <h2>CONOCE QUALIA LIVE.</h2>
+              <h2>CONOCÉ QUALIA LIVE.</h2>
               <p>TUS SUEÑOS, TU LUGAR. TU DEPARTAMENTO.</p>
             </div>
           </div>
 
           <div id="slide_c" class="carousel-item">
             <div class="content">
-              <h2>CONOCE QUALIA LIVE.</h2>
+              <h2>CONOCÉ QUALIA LIVE.</h2>
               <p>TUS SUEÑOS, TU LUGAR. TU DEPARTAMENTO.</p>
             </div>
           </div>

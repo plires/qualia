@@ -74,7 +74,7 @@
             <div data-aos="fade-up" class="content">
               <img src="./img/caballito/logo-qualia-caballito.png" alt="logo qualia caballito a">
               <h1>QUALIA LIVE III CABALLITO</h1>
-              <p>DEPARTAMENTOS DE 1 Y 2 AMBIENTES DE APTO PROFESIONAL.</p>
+              <p>DEPARTAMENTOS DE 1 Y 2 AMBIENTES APTO PROFESIONAL.</p>
             </div>
           </div>
 
@@ -82,7 +82,7 @@
             <div class="content">
               <img src="./img/caballito/logo-qualia-caballito.png" alt="logo qualia caballito b">
               <h2>QUALIA LIVE III CABALLITO</h2>
-              <p>DEPARTAMENTOS DE 1 Y 2 AMBIENTES DE APTO PROFESIONAL.</p>
+              <p>DEPARTAMENTOS DE 1 Y 2 AMBIENTES APTO PROFESIONAL.</p>
             </div>
           </div>
 
@@ -90,7 +90,7 @@
             <div class="content">
               <img src="./img/caballito/logo-qualia-caballito.png" alt="logo qualia caballito d">
               <h2>QUALIA LIVE III CABALLITO</h2>
-              <p>DEPARTAMENTOS DE 1 Y 2 AMBIENTES DE APTO PROFESIONAL.</p>
+              <p>DEPARTAMENTOS DE 1 Y 2 AMBIENTES APTO PROFESIONAL.</p>
             </div>
           </div>
 
@@ -98,7 +98,7 @@
             <div class="content">
               <img src="./img/caballito/logo-qualia-caballito.png" alt="logo qualia caballito e">
               <h2>QUALIA LIVE III CABALLITO</h2>
-              <p>DEPARTAMENTOS DE 1 Y 2 AMBIENTES DE APTO PROFESIONAL.</p>
+              <p>DEPARTAMENTOS DE 1 Y 2 AMBIENTES APTO PROFESIONAL.</p>
             </div>
           </div>
 

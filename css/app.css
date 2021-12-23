@@ -1277,7 +1277,7 @@ footer .s2d img {
 
 	.slides_belgrano .content img {
     max-width: 20%;
-    margin-bottom: 150px;
+    margin-bottom: 85px;
 	}
 	/* BELGRANO END */
 	/* Slides Belgrano end */
@@ -1320,6 +1320,14 @@ footer .s2d img {
 	  font-size: 0.85rem;
 	}
 	/* Footer end */
+
+	/* BELGRANO END */
+	.slides_belgrano .content img {
+    max-width: 20%;
+    margin-bottom: 150px;
+	}
+	/* BELGRANO END */
+	/* Slides Belgrano end */
 
 }
 
