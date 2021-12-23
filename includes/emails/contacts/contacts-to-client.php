@@ -421,7 +421,7 @@
           <tr>
               <td style="vertical-align: middle;">
                   
-                  <img src="https://librecomunicacion.net/clientes/board/emails/header.jpg" style="margin:0; padding:0; border:none; display:block; width: 100%; height: auto;" border="0" alt="header" />
+                  <img src="https://s2d.com.ar/img/emails/header.jpg" style="margin:0; padding:0; border:none; display:block; width: 100%; height: auto;" border="0" alt="header" />
 
               </td>
           </tr>
@@ -511,11 +511,11 @@
               <td align="center"  style="background-color: #FFFFFF;padding: 10px;">
                 
                 <a target="_blank" rel="noopener noreferrer" href="{facebook}">
-                  <img src="https://librecomunicacion.net/clientes/board/emails/facebook.png" style="margin:0; margin-right: 20px; padding:0; border:none; display:inline-block; width: 32px; height: auto;" border="0" alt="facebook" />
+                  <img src="https://s2d.com.ar/img/emails/facebook.png" style="margin:0; margin-right: 20px; padding:0; border:none; display:inline-block; width: 32px; height: auto;" border="0" alt="facebook" />
                 </a>
 
                 <a target="_blank" rel="noopener noreferrer" href="{instagram}">
-                  <img src="https://librecomunicacion.net/clientes/board/emails/instagram.png" style="margin:0; margin-right: 20px; padding:0; border:none; display:inline-block; width: 32px; height: auto;" border="0" alt="instagram" />
+                  <img src="https://s2d.com.ar/img/emails/instagram.png" style="margin:0; margin-right: 20px; padding:0; border:none; display:inline-block; width: 32px; height: auto;" border="0" alt="instagram" />
                 </a>
 
               </td>
