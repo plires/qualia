@@ -518,6 +518,47 @@ footer .s2d img {
 }
 /* Footer end */
 
+/* Materiales */
+.materiales {
+	position: relative;
+}
+
+.materiales .data {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+}
+
+.materiales .container .content div {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.materiales .container .content h4 {
+	font-size: 1rem;
+	color: white;
+	font-weight: 100;
+	margin-bottom: 0;
+}
+
+.materiales .container .content h4 br {
+	display: none;
+}
+
+.materiales .container .content img {
+	max-width: 60%;
+}
+
+.materiales .container .content a {
+	font-size: 0.75rem;
+	padding: 3px 5px;
+}
+/* Materiales end */
+
 
 /* BELGRANO */
 /* Slide Belgrano */
@@ -726,6 +767,29 @@ footer .s2d img {
 /* MEDIA QUERIES */
 @media (min-width: 576px) {
 
+	/* Materiales */
+
+	.materiales .container .content {
+		padding: 10px;
+	}
+
+	.materiales .container .content h4 {
+		font-size: 1.5rem;
+	}
+
+	.materiales .container .content h4 br {
+		display: inline-block;
+	}
+
+	.materiales .container .content img {
+		max-width: 70%;
+	}
+
+	.materiales .container .content a {
+		font-size: 0.85rem;
+	}
+	/* Materiales end */
+
 	/* COGHLAN */
 	/* Slide Coghlan */
 	#slide_a_coghlan {
@@ -879,6 +943,27 @@ footer .s2d img {
 
 @media (min-width: 768px) {
 
+	/* Materiales */
+	.materiales .container .content div {
+		justify-content: center;
+	}
+
+	.materiales .container .content div .marco {
+		margin-bottom: 15px;
+	}
+
+	.materiales .container .content img {
+		margin-bottom: 40px;
+	}
+
+	.materiales .container .content .marco {
+		padding: 15px 30px;
+		background: #000000; 
+		border: solid #BDBDBD 1px; 
+		opacity: 0.4; 
+	}
+	/* Materiales end */
+
 	/* BELGRANO */
 	/* Slide Belgrano */
 	.slides_belgrano .content img {
@@ -981,6 +1066,21 @@ footer .s2d img {
 }
 
 @media (min-width: 992px) {
+
+	/* Materiales */
+	.materiales .container .content h4 {
+		font-size: 2rem;
+	}
+
+	.materiales .container .content img {
+		margin-bottom: 50px;
+	}
+
+	.materiales .container .content a {
+		font-size: 1rem;
+		padding: 8px 10px;
+	}
+	/* Materiales end */
 
 	/* BELGRANO */
 	/* Slides Belgrano */
@@ -1129,6 +1229,18 @@ footer .s2d img {
 }
 
 @media (min-width: 1200px) {
+
+	/* Materiales */
+	.materiales .container .content h4 {
+		font-size: 2.25rem;
+		line-height: 1.5;
+	}
+
+	.materiales .container .content img {
+		margin-bottom: 85px;
+		max-width: 100%;
+	}
+	/* Materiales end */
 
 	/* Comunes */
 	h2 {
@@ -1285,6 +1397,17 @@ footer .s2d img {
 }
 
 @media (min-width: 1400px) {
+
+	/* Materiales */
+	.materiales .container .content h4 {
+		font-size: 2.5rem;
+	}
+
+	.materiales .container .content img {
+		margin-bottom: 100px;
+	}
+	/* Materiales end */
+
 	/* Slide */
 	.slides_home .carousel-item {
 		height: 750px;
