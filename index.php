@@ -125,8 +125,12 @@
 
       <div data-aos="fade-up" class="row text-center equipo">
 
-        <div class="col-6 col-md-3">
+        <div class="col-12">
           <h3>NUESTRO <br>EQUIPO</h3>
+        </div>
+
+        <div class="col-6 col-md-3">
+          <img class="img-fluid" src="./img/be-natural.png" alt="logo be natural">
         </div>
 
         <div class="col-6 col-md-3">
