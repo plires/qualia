@@ -12,6 +12,7 @@
               Agente de
             </p>
             <img src="./img/logo-remax.png" alt="logo remax">
+            <a class="transition" href="tel:54 91151366525">54 91151366525</a>
           </div>
         </div>
       </div>
