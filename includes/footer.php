@@ -23,7 +23,11 @@
           Av. Las Heras N&deg; 3739
         </p>
         <div class="redes">
-          <a class="transition" target="_blank" rel="noopener noreferrer" href="<?= WHATSAPP ?>">
+          <a 
+            class="transition" 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            href="https://api.whatsapp.com/send?phone=+<?= WHATSAPP ?>&text=Hola!%20Necesito%20hacer%20una%20consulta!">
             <img class="transition img-fluid" src="./img/whatsapp.png" alt="whatsapp footer">
           </a>
           <a class="transition" target="_blank" rel="noopener noreferrer" href="<?= INSTAGRAM ?>">

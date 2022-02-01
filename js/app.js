@@ -62,10 +62,10 @@ $(function() {
 
 function setLinkWhatsapp() {
   if (window.innerWidth < 768) {
-    whatsapp.setAttribute('href', `https://api.whatsapp.com/send?phone=+5491151366525&text=Hola!%20Necesito%20hacer%20una%20consulta!`);
+    whatsapp.setAttribute('href', `https://api.whatsapp.com/send?phone=+5491171333648&text=Hola!%20Necesito%20hacer%20una%20consulta!`);
   }
   else {
-    whatsapp.setAttribute('href', `https://web.whatsapp.com/send?phone=+5491151366525&text=Hola!%20Necesito%20hacer%20una%20consulta!`);
+    whatsapp.setAttribute('href', `https://web.whatsapp.com/send?phone=+5491171333648&text=Hola!%20Necesito%20hacer%20una%20consulta!`);
   }
 }
 
