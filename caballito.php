@@ -199,7 +199,7 @@
 
           <div data-aos="fade-up"class="col-md-8 offset-md-2">
             <div class="ratio ratio-16x9">
-              <iframe src="https://www.youtube.com/embed/0LrazGYpwXg?rel=0" title="Proyecto Belgrano" allowfullscreen></iframe>
+              <iframe src="https://www.youtube.com/embed/1AEojsGCCG8?rel=0" title="Proyecto Belgrano" allowfullscreen></iframe>
             </div>    
           </div>
 

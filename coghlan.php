@@ -199,7 +199,7 @@
 
           <div data-aos="fade-up"class="col-md-8 offset-md-2">
             <div class="ratio ratio-16x9">
-              <iframe src="https://www.youtube.com/embed/1INEVqqJxJA?rel=0" title="Proyecto Coghlan" allowfullscreen></iframe>
+              <iframe src="https://www.youtube.com/embed/ybrW02Iz7xA?rel=0" title="Proyecto Coghlan" allowfullscreen></iframe>
             </div>    
           </div>
 
