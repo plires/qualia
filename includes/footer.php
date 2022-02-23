@@ -12,15 +12,17 @@
               Agente de
             </p>
             <img src="./img/logo-remax.png" alt="logo remax">
-            <a class="transition" href="tel:54 91151366525">54 91151366525</a>
+            <a class="transition" href="tel:5491151366525">54 91151366525</a>
+            <a class="transition" href="mailto:mbarruti@remax.com.ar">mbarruti@remax.com.ar</a>
           </div>
         </div>
       </div>
 
       <div class="col-md-4 info">
+        <img class="img-fluid mb-2" src="./img/logo-remax.png" alt="logo remax 2">
         <p>
-          tel.: 4802-2427 | mbarruti@remax.com.ar <br>
-          Av. Las Heras N&deg; 3739
+          Av. Las Heras N&deg; 3739 - CABA <br>
+          tel.: 4802-2427<br>
         </p>
         <div class="redes">
           <a 
