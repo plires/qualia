@@ -133,7 +133,7 @@ header .content_mobile {
 }
 
 header .logo {
-	max-width: 80px;
+	max-width: 110px;
 	content:url("../img/logo-qualia.png");
 }
 
@@ -1274,7 +1274,7 @@ footer .s2d img {
 	}
 
 	header .logo {
-		max-width: 110px;
+		max-width: 140px;
 	}
 
 	header #toggleIcon {
