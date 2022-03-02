@@ -140,10 +140,7 @@
 
         <div data-aos-delay="150" data-aos="fade-up" class="col-md-6 datos">
           <p>
-            ¿ESTÁS LISTO <br>
-            PARA MUDARTE <br>
-            AL DEPARTAMENTO <br>
-            DE TUS SUEÑOS?
+            CUALQUIER CONSULTA O DUDAS TE PEDIMOS POR FAVOR QUE NOS ENVÍES UN MENSAJE A NUESTRA COMERCIALIZADORA DE REMAX PREMIUM.
           </p>  
         </div>
 
