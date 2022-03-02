@@ -6,13 +6,13 @@
         <div class="content">
           <img src="./img/globo-remax.png" alt="globo remax">
           <div class="datos">
-            <p>
-              <span>Comercializa:</span> <br>
-              MIRTA BARRUTI <br>
-              Agente de
-            </p>
             <img src="./img/logo-remax.png" alt="logo remax">
-            <a class="transition" href="tel:5491151366525">54 91151366525</a>
+            <p>
+              <br>
+              Mirta G Barruti<br>
+              Agente de Venta
+            </p>
+            <a class="transition" href="tel:5491151366525">15 5136 6525</a>
             <a class="transition" href="mailto:mbarruti@remax.com.ar">mbarruti@remax.com.ar</a>
           </div>
         </div>
