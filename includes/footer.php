@@ -12,7 +12,7 @@
               Mirta G Barruti<br>
               Agente de Venta
             </p>
-            <a class="transition" href="tel:5491151366525">15 5136 6525</a>
+            <a class="transition cel_agente" href="tel:5491151366525">15 5136 6525</a>
             <a class="transition" href="mailto:mbarruti@remax.com.ar">mbarruti@remax.com.ar</a>
           </div>
         </div>
