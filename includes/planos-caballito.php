@@ -142,6 +142,40 @@
             </div>
           </div>
 
+          <div class="carousel-item">
+            <div class="row">
+              <div class="col-md-12">
+                <h4>Planta Piso 1&deg;</h4>
+                <p>&nbsp;</p>
+              </div>
+
+              <div class="col-md-8">
+                <img src="./img/caballito/plano-f.gif" class="img-fluid" alt="plano f">
+              </div>
+
+              <div class="col-md-4">
+                <p>&nbsp;</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item">
+            <div class="row">
+              <div class="col-md-12">
+                <h4>Planta Baja</h4>
+                <p>&nbsp;</p>
+              </div>
+
+              <div class="col-md-8">
+                <img src="./img/caballito/plano-g.gif" class="img-fluid" alt="plano g">
+              </div>
+
+              <div class="col-md-4">
+                <p>&nbsp;</p>
+              </div>
+            </div>
+          </div>
+
         </div>
 
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselPlanosControls" data-bs-slide="prev">
