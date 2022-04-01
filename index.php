@@ -215,6 +215,27 @@
     </section>
     <!-- Iconos end -->
 
+    <!-- Materiales -->
+    <section data-aos="fade-up"  class="materiales container-fluid p-0">
+      <img class="img-fluid" src="./img/back-materiales.jpg" alt="background materiales">
+      <div class="data h-100">
+        <div class="container h-100">
+          <div class="row h-100">
+            <div class="col-md-12 h-100 content">
+              <div class="text-center h-100">
+                <div class="marco">
+                  <h4>CONOCÉ ACÁ TODOS NUESTROS <br>MATERIALES Y TERMINACIONES</h4>
+                </div>
+                <img class="img-fluid" src="./img/marcas.png" alt="marcas materiales">
+                <a target="_blank" rel="noopener noreferrer" href="./pdf/materiales.pdf" class="btn btn-primary" type="button">DESCARGAR PDF</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Materiales end -->
+
     <!-- Proyectos -->
     <section id="proyectos" class="container-fluid proyectos">
 

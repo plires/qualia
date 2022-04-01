@@ -328,27 +328,6 @@
     <!-- Planos -->
     <?php include('./includes/planos-caballito.php'); ?>
 
-    <!-- Materiales -->
-    <section data-aos="fade-up"  class="materiales container-fluid p-0">
-      <img class="img-fluid" src="./img/back-materiales.jpg" alt="background materiales">
-      <div class="data h-100">
-        <div class="container h-100">
-          <div class="row h-100">
-            <div class="col-md-12 h-100 content">
-              <div class="text-center h-100">
-                <div class="marco">
-                  <h4>CONOCÉ ACÁ TODOS NUESTROS <br>MATERIALES Y TERMINACIONES</h4>
-                </div>
-                <img class="img-fluid" src="./img/marcas.png" alt="marcas materiales">
-                <a target="_blank" rel="noopener noreferrer" href="./pdf/caballito.pdf" class="btn btn-primary" type="button">DESCARGAR PDF</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- Materiales end -->
-
     <!-- Mapa -->
     <section data-aos="fade-up"  class="mapa">
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.1826439018264!2d-58.44243508476991!3d-34.624824480454066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca37fd166d7d%3A0xb5c50b813f5edda6!2sValle%20881%2C%20C1424BVQ%20CABA!5e0!3m2!1ses-419!2sar!4v1639583470372!5m2!1ses-419!2sar" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
