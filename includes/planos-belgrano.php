@@ -133,21 +133,20 @@
           <div class="carousel-item">
             <div class="row">
               <div class="col-md-12">
-                <h4>Planta Tipo 7&deg;</h4>
-                <p>Departamento A - (3 Amb Frente y c/Frente)</p>
+                <h4>Planta Piso 7&deg;</h4>
+                <p>&nbsp;</p>
               </div>
 
               <div class="col-md-8">
-                <img src="./img/belgrano/plano-e.gif" class="img-fluid" alt="plano e">
+                <img src="./img/belgrano/plano-h.gif" class="img-fluid" alt="plano h">
               </div>
 
               <div class="col-md-4">
                 <p>
-                  <strong>Depto A</strong><br>
-                  Cubierto: 88,8 m&sup2;<br>
-                  Balcón / Terraza: 14,3 m&sup2;<br>
-                  Total: 103,1 m&sup2;
-                </p>
+                  Cubierto: 80,8 m&sup2;<br>
+                  Semi Club: 10,7 m&sup2;<br>
+                  Total: 99,5 m&sup2;
+                </p>  
               </div>
             </div>
           </div>
@@ -196,27 +195,6 @@
                   Cubierto: 27,3 m&sup2;<br>
                   Balcón / Terraza: 22,7 m&sup2;<br>
                   Total: 50 m&sup2;
-                </p>  
-              </div>
-            </div>
-          </div>
-
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-md-12">
-                <h4>Planta Piso 7&deg;</h4>
-                <p>&nbsp;</p>
-              </div>
-
-              <div class="col-md-8">
-                <img src="./img/belgrano/plano-h.gif" class="img-fluid" alt="plano h">
-              </div>
-
-              <div class="col-md-4">
-                <p>
-                  Cubierto: 80,8 m&sup2;<br>
-                  Semi Club: 10,7 m&sup2;<br>
-                  Total: 99,5 m&sup2;
                 </p>  
               </div>
             </div>
