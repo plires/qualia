@@ -241,75 +241,68 @@
 
             <div data-aos="fade-up" class="col-md-4">
               <div class="content">
-                <img class="img-fluid" src="./img/caballito/cocheras.png" alt="icono Cocheras">
-                <h4>Cocheras</h4>
-              </div>
-            </div>
-
-            <div data-aos="fade-up" class="col-md-4 offset-md-2">
-              <div class="content">
                 <img class="img-fluid" src="./img/caballito/departamentos.png" alt="icono departamentos">
                 <h4>Deptos  1, 2 y 3 ambientes</h4>
               </div>
             </div>
 
-            <div data-aos="fade-up" class="col-md-4">
+            <div data-aos="fade-up" class="col-md-4 offset-md-2">
               <div class="content">
                 <img class="img-fluid" src="./img/caballito/guarda-bicicletas.png" alt="icono guarda bicicletas">
                 <h4>Guarda bicicletas / patinetas</h4>
               </div>
             </div>
 
-            <div data-aos="fade-up" class="col-md-4 offset-md-2">
+            <div data-aos="fade-up" class="col-md-4">
               <div class="content">
                 <img class="img-fluid" src="./img/caballito/apto-profesional.png" alt="icono Apto Profesional">
                 <h4>Apto Profesional</h4>
               </div>
             </div>
 
-            <div data-aos="fade-up" class="col-md-4">
+            <div data-aos="fade-up" class="col-md-4 offset-md-2">
               <div class="content">
                 <img class="img-fluid" src="./img/caballito/lockers.png" alt="icono Lockers app">
                 <h4>Lockers app</h4>
               </div>
             </div>
 
-            <div data-aos="fade-up" class="col-md-4 offset-md-2">
+            <div data-aos="fade-up" class="col-md-4">
               <div class="content">
                 <img class="img-fluid" src="./img/caballito/piscina.png" alt="icono Apto Piscina">
                 <h4>Piscina</h4>
               </div>
             </div>
 
-            <div data-aos="fade-up" class="col-md-4">
+            <div data-aos="fade-up" class="col-md-4 offset-md-2">
               <div class="content">
                 <img class="img-fluid" src="./img/caballito/grupo-electrogeno.png" alt="icono Grupo Electrógeno">
                 <h4>Grupo Electrógeno</h4>
               </div>
             </div>
 
-            <div data-aos="fade-up" class="col-md-4 offset-md-2">
+            <div data-aos="fade-up" class="col-md-4">
               <div class="content">
                 <img class="img-fluid" src="./img/caballito/solarium.png" alt="icono Apto Solárium">
                 <h4>Solárium</h4>
               </div>
             </div>
 
-            <div data-aos="fade-up" class="col-md-4">
+            <div data-aos="fade-up" class="col-md-4 offset-md-2">
               <div class="content">
                 <img class="img-fluid" src="./img/caballito/portero-visor.png" alt="icono Portero Visor">
                 <h4>Portero Visor</h4>
               </div>
             </div>
 
-            <div data-aos="fade-up" class="col-md-4 offset-md-2">
+            <div data-aos="fade-up" class="col-md-4">
               <div class="content last">
                 <img class="img-fluid" src="./img/caballito/gym.png" alt="icono Apto Gym">
                 <h4>Gym</h4>
               </div>
             </div>
 
-            <div data-aos="fade-up" class="col-md-4">
+            <div data-aos="fade-up" class="col-md-4 offset-md-2">
               <div class="content last">
                 <img class="img-fluid" src="./img/caballito/seguridad.png" alt="icono Seguridad">
                 <h4>Seguridad</h4>
