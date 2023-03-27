@@ -606,6 +606,10 @@ footer .s2d img {
 	background: url('../img/belgrano/slide-d-mobile.jpg');
 }
 
+.slides_belgrano #slide_e_belgrano {
+	background: url('../img/belgrano/slide-e-mobile.jpg');
+}
+
 .slides_belgrano h1,
 .slides_belgrano h2 {
 	width: 250px;
@@ -635,6 +639,10 @@ footer .s2d img {
 
 .info_belgrano p {
 	font-weight: 100;
+}
+
+.info_belgrano p:last-child {
+	margin-bottom: 0;
 }
 /* Info Belgrano end */
 
@@ -711,6 +719,12 @@ footer .s2d img {
 	border-radius: 50%;
 }
 /* Planos end */
+
+/* Mapa */
+.mapa iframe {
+	margin-bottom: -5px;
+}
+/* Mapa end */
 
 /* Historicas */
 .historicas {
@@ -874,6 +888,10 @@ footer .s2d img {
 
 	.slides_belgrano #slide_d_belgrano {
 		background: url('../img/belgrano/slide-d.jpg');
+	}
+
+	.slides_belgrano #slide_e_belgrano {
+		background: url('../img/belgrano/slide-e.jpg');
 	}
 
 	.slides_belgrano .content img {

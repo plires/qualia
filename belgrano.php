@@ -70,6 +70,7 @@
           <button type="button" data-bs-target="#carouselProjectControls" data-bs-slide-to="1" aria-label="Slide 2"></button>
           <button type="button" data-bs-target="#carouselProjectControls" data-bs-slide-to="2" aria-label="Slide 3"></button>
           <button type="button" data-bs-target="#carouselProjectControls" data-bs-slide-to="3" aria-label="Slide 3"></button>
+          <button type="button" data-bs-target="#carouselProjectControls" data-bs-slide-to="4" aria-label="Slide 4"></button>
         </div>
 
         <div class="carousel-inner">
@@ -99,6 +100,14 @@
           </div>
 
           <div id="slide_d_belgrano" class="carousel-item">
+            <div class="content">
+              <img src="./img/belgrano/logo-qualia-belgrano.png" alt="logo qualia belgrano e">
+              <h2>QUALIA LIVE I BELGRANO</h2>
+              <p>DESARROLLO PREMIUM CON DEPARTAMENTOS DE 1, 2 Y 3 AMBIENTES.</p>
+            </div>
+          </div>
+
+          <div id="slide_e_belgrano" class="carousel-item">
             <div class="content">
               <img src="./img/belgrano/logo-qualia-belgrano.png" alt="logo qualia belgrano e">
               <h2>QUALIA LIVE I BELGRANO</h2>
@@ -164,8 +173,6 @@
 
     <!-- Info -->
     <section class="container-fluid iconos info_belgrano info p-0">
-
-      <div class="onda onda_belgrano"></div>
 
       <div class="bg_black bg_belgrano">
         <div class="container">
@@ -307,16 +314,23 @@
             </div>
 
             <div data-aos="fade-up" class="col-md-4 offset-md-2">
-              <div class="content last">
+              <div class="content">
                 <img class="img-fluid" src="./img/belgrano/gym.png" alt="icono Apto Gym">
                 <h4>Gym</h4>
               </div>
             </div>
 
             <div data-aos="fade-up" class="col-md-4">
+              <div class="content">
+                <img class="img-fluid" src="./img/belgrano/seguridad.png" alt="icono Apto Movilidad Reducida">
+                <h4>Apto Movilidad Reducida</h4>
+              </div>
+            </div>
+
+            <div data-aos="fade-up" class="col-md-4 offset-md-2">
               <div class="content last">
-                <img class="img-fluid" src="./img/belgrano/seguridad.png" alt="icono Seguridad">
-                <h4>Seguridad</h4>
+                <img class="img-fluid" src="./img/belgrano/seguridad.png" alt="icono Pet Friendly">
+                <h4>Pet Friendly</h4>
               </div>
             </div>
 
@@ -333,39 +347,10 @@
     <?php include('./includes/planos-belgrano.php'); ?>
 
     <!-- Mapa -->
-    <section data-aos="fade-up"  class="mapa">
+    <section data-aos="fade-up" class="mapa">
       <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3285.786649448751!2d-58.4690699!3d-34.5589569!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb6814bd910bd%3A0x123d21e07b099c5f!2sAv.%20Congreso%203012%2C%20C1428BVX%20CABA!5e0!3m2!1ses-419!2sar!4v1639499254628!5m2!1ses-419!2sar" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     </section>
     <!-- Mapa end -->
-
-    <!-- Historicas -->
-    <section class="container-fluid historicas">
-
-      <div class="row">
-
-        <div data-aos="fade-up" data-aos-delay="50" class="col-md-4 col-lg-2 offset-lg-1">
-          <img class="img-fluid" src="./img/belgrano/historica-a.jpg" alt="proyecto historico belgrano a">
-        </div>
-
-        <div data-aos="fade-up" data-aos-delay="150" class="col-md-4 col-lg-2">
-          <img class="img-fluid" src="./img/belgrano/historica-b.jpg" alt="proyecto historico belgrano b">
-        </div>
-
-        <div data-aos="fade-up" data-aos-delay="200" class="col-md-4 col-lg-2">
-          <img class="img-fluid" src="./img/belgrano/historica-c.jpg" alt="proyecto historico belgrano c">
-        </div>
-
-        <div data-aos="fade-up" data-aos-delay="250" class="col-md-4 col-lg-2">
-          <img class="img-fluid last" src="./img/belgrano/historica-d.jpg" alt="proyecto historico belgrano d">
-        </div>
-
-        <div data-aos="fade-up" data-aos-delay="300" class="col-md-4 col-lg-2">
-          <img class="img-fluid last" src="./img/belgrano/historica-e.jpg" alt="proyecto historico belgrano e">
-        </div>
-       
-      </div>
-    </section>
-    <!-- Historicas end -->
 
     <!-- Footer -->
     <?php require ('includes/footer.php'); ?>
