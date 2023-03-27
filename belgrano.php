@@ -322,14 +322,14 @@
 
             <div data-aos="fade-up" class="col-md-4">
               <div class="content">
-                <img class="img-fluid" src="./img/belgrano/seguridad.png" alt="icono Apto Movilidad Reducida">
+                <img class="img-fluid" src="./img/belgrano/movilidad-reducida.png" alt="icono Apto Movilidad Reducida">
                 <h4>Apto Movilidad Reducida</h4>
               </div>
             </div>
 
             <div data-aos="fade-up" class="col-md-4 offset-md-2">
               <div class="content last">
-                <img class="img-fluid" src="./img/belgrano/seguridad.png" alt="icono Pet Friendly">
+                <img class="img-fluid" src="./img/belgrano/pet-friendly.png" alt="icono Pet Friendly">
                 <h4>Pet Friendly</h4>
               </div>
             </div>

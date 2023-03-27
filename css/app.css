@@ -328,7 +328,7 @@ header.small .logo {
 	margin-bottom: 15px;
 }
 
-.iconos .col-md-4:last-child .content {
+.iconos .last .col-md-4:last-child .content {
 	margin-bottom: 0;
 }
 
@@ -1067,6 +1067,14 @@ footer .s2d img {
 		max-width: 16%;
 	}
 
+	.iconos .content {
+		margin-bottom: 30px;
+	}
+
+	.iconos .last .col-md-4 .content {
+		margin-bottom: 0;
+	}
+
 	.iconos h4 {
 		font-size: 1rem;
 	}
@@ -1373,14 +1381,6 @@ footer .s2d img {
 	/* Iconos */
 	.iconos .onda {
 		height: 110px;
-	}
-
-	.iconos .content {
-		margin-bottom: 30px;
-	}
-
-	.iconos .last .col-md-4 .content {
-		margin-bottom: 0;
 	}
 
 	.iconos h4 {

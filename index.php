@@ -187,14 +187,14 @@
 
             <div data-aos="fade-up" data-aos-delay="100" class="col-md-4">
               <div class="content">
-                <img class="img-fluid" src="./img/diseno-exterior.png" alt="icono diseno exterior">
+                <img class="img-fluid" src="./img/atencion-personalizada.png" alt="icono atencion-personalizada">
                 <h4>Atención Personalizada</h4>
               </div>
             </div>
 
             <div data-aos="fade-up" data-aos-delay="150" class="col-md-4">
               <div class="content">
-                <img class="img-fluid" src="./img/diseno-futurista.png" alt="icono diseno futurista">
+                <img class="img-fluid" src="./img/calidad-constructiva.png" alt="icono calidad constructiva">
                 <h4>Calidad Constructiva</h4>
               </div>
             </div>
@@ -205,7 +205,7 @@
 
             <div data-aos="fade-up" data-aos-delay="200" class="col-md-4">
               <div class="content">
-                <img class="img-fluid" src="./img/diseno-paisaje.png" alt="icono diseno paisaje">
+                <img class="img-fluid" src="./img/instalacion-premium.png" alt="icono instalacion premium">
                 <h4>Instalaciones Premium</h4>
               </div>
             </div>
