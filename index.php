@@ -67,28 +67,44 @@
           <button type="button" data-bs-target="#carouselHomeControls" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
           <button type="button" data-bs-target="#carouselHomeControls" data-bs-slide-to="1" aria-label="Slide 2"></button>
           <button type="button" data-bs-target="#carouselHomeControls" data-bs-slide-to="2" aria-label="Slide 3"></button>
+          <button type="button" data-bs-target="#carouselHomeControls" data-bs-slide-to="3" aria-label="Slide 4"></button>
+          <button type="button" data-bs-target="#carouselHomeControls" data-bs-slide-to="4" aria-label="Slide 5"></button>
         </div>
 
         <div class="carousel-inner">
 
           <div id="slide_a" class="carousel-item active">
             <div data-aos="fade-up" class="content">
-              <h1>CONOCÉ QUALIA LIVE.</h1>
-              <p>CONFORT. DISEÑO Y ARMONÍA.</p>
+              <h1>QUALIA LIVE.</h1>
+              <p>CONFORT - DISEÑO - ARMONÍA.</p>
             </div>
           </div>
 
           <div id="slide_b" class="carousel-item">
             <div class="content">
-              <h2>CONOCÉ QUALIA LIVE.</h2>
-              <p>CONFORT. DISEÑO Y ARMONÍA.</p>
+              <h2>QUALIA LIVE.</h2>
+              <p>CONFORT - DISEÑO - ARMONÍA.</p>
             </div>
           </div>
 
           <div id="slide_c" class="carousel-item">
             <div class="content">
-              <h2>CONOCÉ QUALIA LIVE.</h2>
-              <p>CONFORT. DISEÑO Y ARMONÍA.</p>
+              <h2>QUALIA LIVE.</h2>
+              <p>CONFORT - DISEÑO - ARMONÍA.</p>
+            </div>
+          </div>
+
+          <div id="slide_d" class="carousel-item">
+            <div class="content">
+              <h2>QUALIA LIVE.</h2>
+              <p>CONFORT - DISEÑO - ARMONÍA.</p>
+            </div>
+          </div>
+
+          <div id="slide_e" class="carousel-item">
+            <div class="content">
+              <h2>QUALIA LIVE.</h2>
+              <p>CONFORT - DISEÑO - ARMONÍA.</p>
             </div>
           </div>
 
@@ -157,8 +173,6 @@
     <!-- Iconos -->
     <section class="container-fluid iconos p-0">
 
-      <div class="onda"></div>
-
       <div class="bg_black">
         <div class="container">
 
@@ -174,14 +188,14 @@
             <div data-aos="fade-up" data-aos-delay="100" class="col-md-4">
               <div class="content">
                 <img class="img-fluid" src="./img/diseno-exterior.png" alt="icono diseno exterior">
-                <h4>Diseño Exterior</h4>
+                <h4>Atención Personalizada</h4>
               </div>
             </div>
 
             <div data-aos="fade-up" data-aos-delay="150" class="col-md-4">
               <div class="content">
                 <img class="img-fluid" src="./img/diseno-futurista.png" alt="icono diseno futurista">
-                <h4>Diseño Futurista</h4>
+                <h4>Calidad Constructiva</h4>
               </div>
             </div>
 
@@ -192,7 +206,7 @@
             <div data-aos="fade-up" data-aos-delay="200" class="col-md-4">
               <div class="content">
                 <img class="img-fluid" src="./img/diseno-paisaje.png" alt="icono diseno paisaje">
-                <h4>Diseño de Paisaje</h4>
+                <h4>Instalaciones Premium</h4>
               </div>
             </div>
 
@@ -308,7 +322,7 @@
 
         <div data-aos-delay="150" data-aos="fade-up" class="col-md-6 datos">
           <p>
-            CUALQUIER CONSULTA O DUDAS TE PEDIMOS POR FAVOR QUE NOS ENVÍES UN MENSAJE A NUESTRA COMERCIALIZADORA DE REMAX PREMIUM.
+            COMERCIALIZACIÓN EXCLUSIVA REMAX PREMIUM.
           </p>  
         </div>
 

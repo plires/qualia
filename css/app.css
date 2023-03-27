@@ -271,6 +271,14 @@ header.small .logo {
 	background: url('../img/slide-c-mobile.jpg');
 }
 
+.slides_home #slide_d {
+	background: url('../img/slide-d-mobile.jpg');
+}
+
+.slides_home #slide_e {
+	background: url('../img/slide-e-mobile.jpg');
+}
+
 .slides_home .carousel-indicators [data-bs-target] {
 	border-radius: 50%;
 	width: 10px;
@@ -929,6 +937,10 @@ footer .s2d img {
 	.slides_home #slide_d {
 		background: url('../img/slide-d.jpg');
 	}
+
+	.slides_home #slide_e {
+		background: url('../img/slide-e.jpg');
+	}
 	/* Slide Home */
 
 	/* Proyectos */
@@ -1345,10 +1357,6 @@ footer .s2d img {
 		height: 110px;
 	}
 
-	.iconos .bg_black {
-		padding-top: 15px;
-	}
-
 	.iconos .content {
 		margin-bottom: 30px;
 	}
@@ -1434,7 +1442,8 @@ footer .s2d img {
 	}
 
 	.iconos .bg_black {
-		padding-top: 5px;
+		padding-top: 60px;
+		padding-bottom: 60px;
 	}
 	/* Iconos end */
 
