@@ -785,6 +785,10 @@ footer .s2d img {
 #slide_d_coghlan {
 	background: url('../img/coghlan/slide-d-mobile.jpg');
 }
+
+#slide_e_coghlan {
+	background: url('../img/coghlan/slide-e-mobile.jpg');
+}
 /* Slide Coghlan */
 
 /* Info Coghlan */
@@ -848,6 +852,10 @@ footer .s2d img {
 
 	#slide_d_coghlan {
 		background: url('../img/coghlan/slide-d.jpg');
+	}
+
+	#slide_e_coghlan {
+		background: url('../img/coghlan/slide-e.jpg');
 	}
 	/* Slide Coghlan */
 	/* COGHLAN END */

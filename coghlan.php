@@ -69,14 +69,14 @@
           <button type="button" data-bs-target="#carouselProjectControls" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
           <button type="button" data-bs-target="#carouselProjectControls" data-bs-slide-to="1" aria-label="Slide 2"></button>
           <button type="button" data-bs-target="#carouselProjectControls" data-bs-slide-to="2" aria-label="Slide 3"></button>
-          <button type="button" data-bs-target="#carouselProjectControls" data-bs-slide-to="3" aria-label="Slide 3"></button>
+          <button type="button" data-bs-target="#carouselProjectControls" data-bs-slide-to="3" aria-label="Slide 4"></button>
+          <button type="button" data-bs-target="#carouselProjectControls" data-bs-slide-to="4" aria-label="Slide 5"></button>
         </div>
 
         <div class="carousel-inner">
 
           <div id="slide_a_coghlan" class="carousel-item active">
             <div data-aos="fade-up" class="content">
-              <img src="./img/coghlan/logo-qualia-coghlan.png" alt="logo qualia coghlan a">
               <h1>QUALIA LIVE II COGHLAN</h1>
               <p>DEPARTAMENTOS DE 1 Y 2 AMBIENTES EN UNO DE LOS BARRIOS DE MAYOR CRECIMIENTO.</p>
             </div>
@@ -84,7 +84,6 @@
 
           <div id="slide_b_coghlan" class="carousel-item">
             <div class="content">
-              <img src="./img/coghlan/logo-qualia-coghlan.png" alt="logo qualia coghlan b">
               <h2>QUALIA LIVE II COGHLAN</h2>
               <p>DEPARTAMENTOS DE 1 Y 2 AMBIENTES EN UNO DE LOS BARRIOS DE MAYOR CRECIMIENTO.</p>
             </div>
@@ -92,7 +91,6 @@
 
           <div id="slide_c_coghlan" class="carousel-item">
             <div class="content">
-              <img src="./img/coghlan/logo-qualia-coghlan.png" alt="logo qualia coghlan d">
               <h2>QUALIA LIVE II COGHLAN</h2>
               <p>DEPARTAMENTOS DE 1 Y 2 AMBIENTES EN UNO DE LOS BARRIOS DE MAYOR CRECIMIENTO.</p>
             </div>
@@ -100,7 +98,13 @@
 
           <div id="slide_d_coghlan" class="carousel-item">
             <div class="content">
-              <img src="./img/coghlan/logo-qualia-coghlan.png" alt="logo qualia coghlan e">
+              <h2>QUALIA LIVE II COGHLAN</h2>
+              <p>DEPARTAMENTOS DE 1 Y 2 AMBIENTES EN UNO DE LOS BARRIOS DE MAYOR CRECIMIENTO.</p>
+            </div>
+          </div>
+
+          <div id="slide_e_coghlan" class="carousel-item">
+            <div class="content">
               <h2>QUALIA LIVE II COGHLAN</h2>
               <p>DEPARTAMENTOS DE 1 Y 2 AMBIENTES EN UNO DE LOS BARRIOS DE MAYOR CRECIMIENTO.</p>
             </div>
@@ -164,8 +168,6 @@
 
     <!-- Info -->
     <section class="container-fluid iconos info_belgrano info_coghlan info p-0">
-
-      <div class="onda onda_belgrano"></div>
 
       <div class="bg_black bg_belgrano">
         <div class="container">
@@ -337,35 +339,6 @@
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.765086478574!2d-58.47278538477148!3d-34.55950278047083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb686ecc80d33%3A0x18ddac469bca2a6c!2sAv.%20Congreso%203233%2C%20C1428BWA%20CABA!5e0!3m2!1ses-419!2sar!4v1639580106319!5m2!1ses-419!2sar" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     </section>
     <!-- Mapa end -->
-
-    <!-- Historicas -->
-    <section class="container-fluid historicas">
-
-      <div class="row">
-
-        <div data-aos="fade-up" data-aos-delay="50" class="col-md-4 col-lg-2 offset-lg-1">
-          <img class="img-fluid" src="./img/coghlan/historica-a.jpg" alt="proyecto historico belgrano a">
-        </div>
-
-        <div data-aos="fade-up" data-aos-delay="150" class="col-md-4 col-lg-2">
-          <img class="img-fluid" src="./img/coghlan/historica-b.jpg" alt="proyecto historico belgrano b">
-        </div>
-
-        <div data-aos="fade-up" data-aos-delay="200" class="col-md-4 col-lg-2">
-          <img class="img-fluid" src="./img/coghlan/historica-c.jpg" alt="proyecto historico belgrano c">
-        </div>
-
-        <div data-aos="fade-up" data-aos-delay="250" class="col-md-4 col-lg-2">
-          <img class="img-fluid last" src="./img/coghlan/historica-d.jpg" alt="proyecto historico belgrano d">
-        </div>
-
-        <div data-aos="fade-up" data-aos-delay="300" class="col-md-4 col-lg-2">
-          <img class="img-fluid last" src="./img/coghlan/historica-e.jpg" alt="proyecto historico belgrano e">
-        </div>
-       
-      </div>
-    </section>
-    <!-- Historicas end -->
 
     <!-- Footer -->
     <?php require ('includes/footer.php'); ?>
