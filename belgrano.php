@@ -77,7 +77,6 @@
 
           <div id="slide_a_belgrano" class="carousel-item active">
             <div data-aos="fade-up" class="content">
-              <img src="./img/belgrano/logo-qualia-belgrano.png" alt="logo qualia belgrano a">
               <h1>QUALIA LIVE I BELGRANO</h1>
               <p>DESARROLLO PREMIUM CON DEPARTAMENTOS DE 1, 2 Y 3 AMBIENTES.</p>
             </div>
@@ -85,7 +84,6 @@
 
           <div id="slide_b_belgrano" class="carousel-item">
             <div class="content">
-              <img src="./img/belgrano/logo-qualia-belgrano.png" alt="logo qualia belgrano b">
               <h2>QUALIA LIVE I BELGRANO</h2>
               <p>DESARROLLO PREMIUM CON DEPARTAMENTOS DE 1, 2 Y 3 AMBIENTES.</p>
             </div>
@@ -93,7 +91,6 @@
 
           <div id="slide_c_belgrano" class="carousel-item">
             <div class="content">
-              <img src="./img/belgrano/logo-qualia-belgrano.png" alt="logo qualia belgrano d">
               <h2>QUALIA LIVE I BELGRANO</h2>
               <p>DESARROLLO PREMIUM CON DEPARTAMENTOS DE 1, 2 Y 3 AMBIENTES.</p>
             </div>
@@ -101,7 +98,6 @@
 
           <div id="slide_d_belgrano" class="carousel-item">
             <div class="content">
-              <img src="./img/belgrano/logo-qualia-belgrano.png" alt="logo qualia belgrano e">
               <h2>QUALIA LIVE I BELGRANO</h2>
               <p>DESARROLLO PREMIUM CON DEPARTAMENTOS DE 1, 2 Y 3 AMBIENTES.</p>
             </div>
@@ -109,7 +105,6 @@
 
           <div id="slide_e_belgrano" class="carousel-item">
             <div class="content">
-              <img src="./img/belgrano/logo-qualia-belgrano.png" alt="logo qualia belgrano e">
               <h2>QUALIA LIVE I BELGRANO</h2>
               <p>DESARROLLO PREMIUM CON DEPARTAMENTOS DE 1, 2 Y 3 AMBIENTES.</p>
             </div>
